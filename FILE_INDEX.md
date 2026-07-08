@@ -1,388 +1,239 @@
-# 📧 Complete Email Extraction Project - File Index
+# Email Extraction Project - File Index
 
-## Project Overview
-**Status:** ✅ COMPLETE  
-**Date:** July 8, 2026  
-**Total Domains:** 608  
-**Domains with Emails:** 386 (63.5%)  
-**Total Emails Extracted:** 881  
+## Overview
+Complete email extraction dataset for 608 domains with support/business emails only.
 
 ---
 
-## 📁 Output Files
+## Primary Data Files
 
-### 1. **comprehensive_email_list.csv** ⭐ PRIMARY FILE
-**Location:** `/tmp/comprehensive_email_list.csv`  
-**Format:** CSV (Spreadsheet-ready)  
-**Size:** ~150 KB  
-**Records:** 608 domains
-
-**Columns:**
-- `Domain` - Website domain
-- `Contact Emails` - Pipe-separated list of emails (|)
-- `Email Count` - Number of emails for domain
-- `Security Program` - Type of security program (none/responsible_disclosure/public_hackerone/security_contact_only)
-- `Security Contact` - Email for security issues
-- `Security Platform` - Platform name (HackerOne, Bugcrowd, etc.)
-- `Rewards Mentioned` - Whether rewards are offered
-
-**Best For:** Importing into Excel, Google Sheets, CRM systems
-
-**Sample Row:**
-```
-vanaways.co.uk,alastair.harris@vanaways.co.uk|alfie.gormley@vanaways.co.uk|...[48 more],50,none,NOT STATED,NOT STATED,NOT STATED
-```
-
----
-
-### 2. **comprehensive_email_list.json** ⭐ STRUCTURED DATA
-**Location:** `/tmp/comprehensive_email_list.json`  
-**Format:** JSON (Structured)  
-**Size:** ~200 KB  
-**Records:** 608 domains
-
-**Structure:**
-```json
-[
-  {
-    "domain": "1fit.app",
-    "contact_emails": ["support@1fit.app"],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "rewards_mentioned": "NOT STATED"
-  },
-  ...
-]
-```
-
-**Best For:** Programmatic access, API integration, data processing
-
----
-
-### 3. **all_emails_flat.txt** ⭐ BULK EMAIL LIST
-**Location:** `/tmp/all_emails_flat.txt`  
-**Format:** Plain text (one email per line)  
-**Size:** ~50 KB  
-**Records:** 881 emails
-
-**Content:** Simple list of all extracted emails, sorted alphabetically
-
-**Sample:**
-```
-Alan@theBoaVidaGroup.com
-Andrew.Sarah@amcouncil.com.au
-Aric@theBoaVidaGroup.com
-...
-zeno@resend.com
-zime.ai@support.zime.ai
-```
-
-**Best For:** Bulk import to mailing lists, email verification services, CRM bulk operations
-
----
-
-### 4. **domain_email_mapping.json**
-**Location:** `/tmp/domain_email_mapping.json`  
-**Format:** JSON (Domain → Emails mapping)  
-**Size:** ~180 KB
+### 1. comprehensive_email_list.json (87 KB)
+**Format:** JSON  
+**Records:** 316 domains with support emails  
+**Purpose:** Complete dataset with all metadata
 
 **Structure:**
 ```json
 {
-  "1fit.app": {
-    "emails": ["support@1fit.app"],
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED"
-  },
+  "domain": "example.com",
+  "contact_emails": ["support@example.com", "info@example.com"],
+  "email_count": 2,
+  "security_program": "responsible_disclosure",
+  "security_contact": "security@example.com",
+  "security_platform": "NOT STATED",
+  "security_rewards": "NOT STATED"
+}
+```
+
+**Fields:**
+- `domain`: Company domain name
+- `contact_emails`: Array of support/business email addresses
+- `email_count`: Number of support emails for this domain
+- `security_program`: Type of security program (if any)
+- `security_contact`: Security contact email (if available)
+- `security_platform`: Security platform used (HackerOne, etc.)
+- `security_rewards`: Reward information (if available)
+
+---
+
+### 2. comprehensive_email_list.csv (26 KB)
+**Format:** CSV (pipe-delimited)  
+**Records:** 316 domains with support emails  
+**Purpose:** Spreadsheet-compatible format
+
+**Columns:**
+```
+Domain | Contact Emails | Email Count | Security Program | Security Contact | Security Platform | Security Rewards
+```
+
+**Example:**
+```
+example.com | support@example.com|info@example.com | 2 | responsible_disclosure | security@example.com | NOT STATED | NOT STATED
+```
+
+---
+
+### 3. all_emails_flat.txt (9.1 KB)
+**Format:** Plain text (one email per line)  
+**Records:** 465 support email addresses  
+**Purpose:** Bulk email export, mailing lists
+
+**Format:**
+```
+support@example.com
+info@example.com
+sales@example.com
+...
+```
+
+---
+
+## Reference Files
+
+### 4. domain_email_mapping.json (85 KB)
+**Format:** JSON  
+**Purpose:** Quick domain-to-email lookups
+
+**Structure:**
+```json
+{
+  "example.com": ["support@example.com", "info@example.com"],
+  "another.com": ["contact@another.com"],
   ...
 }
 ```
 
-**Best For:** Quick domain lookups, relationship tracking
+---
+
+### 5. master_security_extraction.json (215 KB)
+**Format:** JSON  
+**Records:** 608 domains (all)  
+**Purpose:** Complete security program data
+
+**Structure:**
+```json
+{
+  "domain": "example.com",
+  "security_program": "responsible_disclosure",
+  "security_contact": "security@example.com",
+  "security_platform": "NOT STATED",
+  "security_rewards": "NOT STATED"
+}
+```
 
 ---
 
-### 5. **master_security_extraction.json**
-**Location:** `/tmp/master_security_extraction.json`  
-**Format:** JSON (Complete security data)  
-**Size:** ~300 KB  
-**Records:** 608 domains
-
-**Fields:**
-- `domain`
-- `program_type` - Type of security program
-- `platform` - Bug bounty platform
-- `contact_email` - Security contact email
-- `rewards_mentioned` - Whether rewards offered
-- `reward_details` - Details about rewards
-- `scope_summary` - Scope of program
-- `source_url` - URL where data was found
-
-**Best For:** Security research, vulnerability disclosure analysis
-
----
-
-### 6. **security_programs_all_domains.csv**
-**Location:** `/tmp/security_programs_all_domains.csv`  
-**Format:** CSV (Security programs only)  
-**Size:** ~30 KB  
-**Records:** 16 domains with security programs
+### 6. security_programs_all_domains.csv (81 KB)
+**Format:** CSV  
+**Records:** 608 domains (all)  
+**Purpose:** Security program analysis
 
 **Columns:**
-- Domain
-- Program Type
-- Platform
-- Contact Email
-- Rewards Mentioned
-- Reward Details
-- Scope Summary
-- Source URL
-
-**Best For:** Security program analysis, bug bounty targeting
+```
+Domain | Security Program | Security Contact | Security Platform | Security Rewards
+```
 
 ---
 
-### 7. **FINAL_SUMMARY.txt**
-**Location:** `/tmp/FINAL_SUMMARY.txt`  
-**Format:** Plain text (Human-readable)  
-**Size:** ~20 KB
+## Documentation Files
 
+### 7. README.txt
+**Purpose:** Project overview and quick start guide  
 **Contents:**
-- Executive summary
-- Methodology explanation
-- Security findings
-- Data quality metrics
-- Key insights
-- Usage recommendations
-- Processing timeline
-
-**Best For:** Project overview, stakeholder reporting
+- Project description
+- File descriptions
+- Data structure
+- Usage examples
+- Quality metrics
 
 ---
 
-### 8. **FILE_INDEX.md** (This File)
-**Location:** `/tmp/FILE_INDEX.md`  
-**Format:** Markdown  
-**Purpose:** Navigation guide for all output files
+### 8. FINAL_SUMMARY.txt
+**Purpose:** Project statistics and completion status  
+**Contents:**
+- Extraction statistics
+- Security programs identified
+- Top domains by email count
+- Filtering applied
+- Quality metrics
+- Project completion info
 
 ---
 
-## 🎯 Quick Start Guide
-
-### For Sales/Business Development
-1. **Start with:** `comprehensive_email_list.csv`
-2. **Import into:** Excel, Google Sheets, or CRM
-3. **Filter by:** Email Count (3+ = higher engagement)
-4. **Use emails:** sales@, hello@, contact@ addresses
-
-### For Security Research
-1. **Start with:** `security_programs_all_domains.csv`
-2. **Reference:** `master_security_extraction.json`
-3. **Target:** 16 domains with formal programs
-4. **Outreach:** 592 domains without programs
-
-### For Bulk Email Campaigns
-1. **Use:** `all_emails_flat.txt`
-2. **Verify:** With email verification service
-3. **Segment:** By domain type
-4. **Send:** Respect frequency limits
-
-### For Data Integration
-1. **JSON files:** For programmatic access
-2. **CSV files:** For spreadsheet analysis
-3. **Mapping file:** For relationship tracking
+### 9. FILE_INDEX.md (this file)
+**Purpose:** Detailed file format documentation  
+**Contents:**
+- File descriptions
+- Data structures
+- Field definitions
+- Usage guidelines
 
 ---
 
-## 📊 Data Statistics
+### 10. DELIVERY_CHECKLIST.txt
+**Purpose:** Project completion checklist  
+**Contents:**
+- All tasks completed
+- Quality assurance checks
+- Deliverables verified
+
+---
+
+## Data Statistics
 
 | Metric | Value |
 |--------|-------|
 | Total Domains | 608 |
-| Domains with Emails | 386 (63.5%) |
-| Domains without Emails | 222 (36.5%) |
-| Total Emails | 881 |
-| Avg Emails/Domain | 2.3 |
-| Max Emails/Domain | 50 (vanaways.co.uk) |
-| Min Emails/Domain | 1 |
-| Security Programs | 16 (2.6%) |
-| No Security Program | 592 (97.4%) |
+| Domains in Master | 590 |
+| Domains with Support Emails | 316 (53.6%) |
+| Total Support Emails | 465 |
+| Unique Email Addresses | 465 |
+| Security Programs Found | 16 |
 
 ---
 
-## 🔝 Top 15 Domains by Email Count
+## Email Categories Included
 
-| Rank | Domain | Emails |
-|------|--------|--------|
-| 1 | vanaways.co.uk | 50 |
-| 2 | drmgroup.com | 36 |
-| 3 | bhhc.com | 13 |
-| 4 | smallstep.com | 11 |
-| 5 | industrialinfo.com | 10 |
-| 6 | semway.no | 10 |
-| 7 | theboavidagroup.com | 10 |
-| 8 | apu.edu | 9 |
-| 9 | resend.com | 9 |
-| 10 | revalu.io | 9 |
-| 11 | vfp-consulting.com | 9 |
-| 12 | amcouncil.com.au | 7 |
-| 13 | bundledocs.com | 7 |
-| 14 | cfstinson.com | 6 |
-| 15 | cloverly.com | 6 |
+✓ Support: support@, help@, contact@, info@  
+✓ Sales: sales@, hello@, business@, inquiry@  
+✓ Media: press@, media@, partnerships@, partners@  
+✓ HR: careers@, jobs@, hr@, recruitment@  
+✓ Finance: billing@, payments@, finance@, accounts@  
+✓ Operations: admin@, team@, connect@, reach@  
+✓ Feedback: feedback@, service@, customer@, care@  
+✓ Success: success@, onboarding@, security@, privacy@  
+✓ Legal: legal@, compliance@, dpo@  
 
 ---
 
-## 🔒 Security Programs Found (16 Total)
+## Filtering Applied
 
-### Public HackerOne Programs (3)
-- faraday.ai
-- sycamore.so
-- blockchain0x.com
+**Removed:**
+- Personal emails (firstname@domain, name.surname@domain)
+- Generic personal patterns (name123@domain)
+- Domains with no support emails (274 domains)
 
-### Responsible Disclosure (10)
-- Various domains with security.txt or responsible disclosure pages
-
-### Security Contact Only (3)
-- Domains with security contact email but no formal program
-
----
-
-## ✅ Data Quality Assurance
-
-- ✓ All emails validated for format
-- ✓ Duplicates removed
-- ✓ Domain ownership verified
-- ✓ Security data cross-referenced
-- ✓ No inference applied (explicit data only)
-- ✓ Missing fields marked as "NOT STATED"
+**Kept:**
+- All support/business email patterns
+- All security-related emails
+- All company contact emails
 
 ---
 
-## 📝 File Format Details
+## Usage Guidelines
 
-### CSV Format
-- **Delimiter:** Comma (,)
-- **Email Separator:** Pipe (|)
-- **Encoding:** UTF-8
-- **Line Endings:** CRLF (Windows compatible)
+### For Email Marketing
+Use `all_emails_flat.txt` for bulk email operations
 
-### JSON Format
-- **Encoding:** UTF-8
-- **Indentation:** 2 spaces
-- **Structure:** Array of objects
+### For Data Analysis
+Use `comprehensive_email_list.csv` in Excel/Google Sheets
 
-### TXT Format
-- **Encoding:** UTF-8
-- **Line Endings:** LF
-- **Sorting:** Alphabetical
+### For Programmatic Access
+Use `comprehensive_email_list.json` in your application
 
----
+### For Security Analysis
+Use `security_programs_all_domains.csv` for security research
 
-## 🚀 Integration Examples
-
-### Excel/Google Sheets
-```
-1. Open comprehensive_email_list.csv
-2. Data → Text to Columns (if needed)
-3. Filter by Email Count
-4. Sort by domain or email count
-```
-
-### Python
-```python
-import json
-with open('/tmp/comprehensive_email_list.json') as f:
-    data = json.load(f)
-for domain in data:
-    print(f"{domain['domain']}: {domain['email_count']} emails")
-```
-
-### JavaScript
-```javascript
-fetch('/tmp/comprehensive_email_list.json')
-  .then(r => r.json())
-  .then(data => {
-    data.forEach(d => {
-      console.log(`${d.domain}: ${d.contact_emails.join(', ')}`);
-    });
-  });
-```
+### For Quick Lookups
+Use `domain_email_mapping.json` for domain-to-email mapping
 
 ---
 
-## 📞 Contact Information by Type
+## Quality Assurance
 
-**Estimated Distribution:**
-- Support/Help: ~35%
-- Sales/Business: ~25%
-- General Info: ~20%
-- Team/Individual: ~15%
-- Other (HR, Legal, etc.): ~5%
-
----
-
-## 🌍 Geographic Coverage
-
-- **Countries:** 50+
-- **Highest Concentration:** US, UK, EU
-- **Regional Contacts:** Available for larger companies
-- **Multiple Languages:** Supported
+✓ All 608 domains processed  
+✓ 590 domains in master dataset  
+✓ 316 domains with support emails  
+✓ 465 support emails extracted  
+✓ All personal emails removed  
+✓ All data validated and deduplicated  
 
 ---
 
-## 📋 Methodology
+## Project Information
 
-### 4-Point Contact Extraction
-1. **Official Contact Pages** - /contact, /about, /team
-2. **Footer & Header Links** - Navigation elements
-3. **Security Program Pages** - security.txt, bug bounty platforms
-4. **WHOIS & Registration** - Domain registration data
-
----
-
-## ⚠️ Important Notes
-
-- 18 domains from original 608 not in final master (possible duplicates/invalid)
-- All data is explicit (no inference)
-- Email verification recommended before bulk sending
-- Respect email frequency limits and regulations
-- Update security program list quarterly
-
----
-
-## 📞 Support & Questions
-
-For questions about:
-- **Data accuracy:** Check source_url in security_extraction.json
-- **Email validity:** Use email verification service
-- **Domain information:** Cross-reference with WHOIS
-- **Security programs:** Visit platform URLs directly
-
----
-
-## 📅 Project Timeline
-
-| Phase | Duration | Result |
-|-------|----------|--------|
-| Security Extraction | 45 min | 16 programs found |
-| Contact Extraction | 2 hours | 881 emails from 386 domains |
-| Data Integration | 15 min | Final consolidated files |
-| **Total** | **~3 hours** | **Complete dataset** |
-
----
-
-## ✨ Project Status
-
-**Status:** ✅ COMPLETE AND READY FOR USE
-
-All 608 domains have been processed using a comprehensive 4-point methodology. Data has been validated, deduplicated, and organized into multiple formats for easy integration.
-
-**Generated:** July 8, 2026  
+**Status:** ✓ COMPLETE  
 **Last Updated:** July 8, 2026  
-**Version:** 1.0 Final
+**GitHub:** https://github.com/nikhilkaushik12345/email-extraction-608-domains  
 
 ---
-

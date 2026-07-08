@@ -1,33 +1,10 @@
 [
   {
-    "domain": "1688.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "1fit.app",
     "contact_emails": [
       "support@1fit.app"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "a-leads.co",
-    "contact_emails": [
-      "e.voss@northwindlabs.io",
-      "j.webb@slateanalytics.com",
-      "m.chen@cedarsystems.co",
-      "p.shah@bluepeak.inc"
-    ],
-    "email_count": 4,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -58,27 +35,13 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "academypl.us",
-    "contact_emails": [
-      "david@studentacademyplus.com",
-      "ian@be-a.co.uk",
-      "paul@academypl.us"
-    ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "acctual.com",
     "contact_emails": [
       "billing@charm.ai",
       "billing@marble.studio",
-      "payables@acctual.com",
       "payments@adria.studio"
     ],
-    "email_count": 4,
+    "email_count": 3,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -107,22 +70,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "actirise.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "addcomposites.com",
     "contact_emails": [
-      "info@addcomposites.com",
-      "james.kuligoski@addcomposites.com",
-      "pravin.luthada@addcomposites.com"
+      "info@addcomposites.com"
     ],
-    "email_count": 3,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -132,10 +84,9 @@
     "domain": "adenasoft.com",
     "contact_emails": [
       "admin@adenasoft.com",
-      "forex@adenasoft.com",
       "info@adenasoft.com"
     ],
-    "email_count": 3,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -155,13 +106,9 @@
   {
     "domain": "admiral.digital",
     "contact_emails": [
-      "belgium@admiral.digital",
-      "hello@admiral.digital",
-      "malaysia@admiral.digital",
-      "newzealand@admiral.digital",
-      "singapore@admiral.digital"
+      "hello@admiral.digital"
     ],
-    "email_count": 5,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -179,64 +126,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "adomos.com",
-    "contact_emails": [
-      "accueil@adomos.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "adventures.is",
-    "contact_emails": [
-      "marketing@adventures.is",
-      "pickup@adventures.is"
-    ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "agentphone.ai",
-    "contact_emails": [
-      "founders@agentphone.ai"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "aimtell.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "airmason.com",
     "contact_emails": [
-      "hello@airmason.com",
-      "tehsin@airmason.com"
+      "hello@airmason.com"
     ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "algominds.ai",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -256,10 +150,9 @@
   {
     "domain": "allphins.com",
     "contact_emails": [
-      "Niamh@thomond.co.uk",
       "contact@allphins.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -278,24 +171,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "alner.id",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "alphacast.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "altura.io",
     "contact_emails": [
       "info@altura.io"
@@ -307,26 +182,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "ambition.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "amcouncil.com.au",
     "contact_emails": [
-      "Andrew.Sarah@amcouncil.com.au",
-      "Dylan.Buckley@amcouncil.com.au",
-      "James.Stevenson@amcouncil.com.auDarwin",
-      "clint.mcdonald@amcouncil.com.au",
-      "gopinath.chattopadhyay@amcouncil.com.auHobart",
-      "info@amcouncil.com.au",
-      "toby.horstead@amcouncil.com.auMaintenance"
+      "info@amcouncil.com.au"
     ],
-    "email_count": 7,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -339,15 +199,6 @@
       "support@ampfit.com"
     ],
     "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "anakin.io",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -367,14 +218,10 @@
   {
     "domain": "apanshin.ru",
     "contact_emails": [
-      "control@apanshin.ru",
-      "director@apanshin.ru",
       "hr@apanshin.ru",
-      "manager@apanshin.ru",
-      "office@apanshin.ru",
       "sales@apanshin.ru"
     ],
-    "email_count": 6,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -386,15 +233,6 @@
       "hello@appbooster.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "appfolio.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -416,50 +254,9 @@
   {
     "domain": "aption.com",
     "contact_emails": [
-      "aaron@Aption.fund",
-      "alon@Aption.fund",
-      "avi@Aption.fund",
-      "contact@aption.com",
-      "lev@Aption.fund"
+      "contact@aption.com"
     ],
-    "email_count": 5,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "apu.edu",
-    "contact_emails": [
-      "admissions@apu.edu",
-      "advancement@apu.edu",
-      "alumni@apu.edu",
-      "athletics@apu.edu",
-      "campusstore@apu.edu",
-      "csafety@apu.edu",
-      "eventservices@apu.edu",
-      "humanresources@apu.edu",
-      "ssc@apu.edu"
-    ],
-    "email_count": 9,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "arcads.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "arcate.io",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -477,24 +274,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "ardoq.com",
-    "contact_emails": [
-      "marketing@ardoq.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "arkoselabs.com",
     "contact_emails": [
-      "actir@arkoselabs.com",
       "partners@arkoselabs.com",
       "press@arkoselabs.com"
     ],
-    "email_count": 3,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -546,50 +331,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "autocio.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "autods.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "axi.com",
     "contact_emails": [
       "success@axi.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "b2.solutions",
-    "contact_emails": [
-      "contato@b2.solutions",
-      "contato@b2card.com.br"
-    ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "b4a.ai",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -618,21 +364,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "batchdata.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "bedthreads.com.au",
     "contact_emails": [
-      "hello@bedthreads.com.au",
-      "trade@bedthreads.com.au"
+      "hello@bedthreads.com.au"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -653,21 +389,10 @@
   {
     "domain": "bhhc.com",
     "contact_emails": [
-      "PCClientServices@bhhomestate.com",
-      "auto@bhhomestate.com",
-      "bhhcclaim@bhhomestate.com",
-      "bhservices@bhhomestate.com",
       "billing@bhhomestate.com",
-      "clientservicesclaims@bhhomestate.com",
-      "customercare@bhhc.com",
-      "documentmanagement@bhhc.com",
-      "marketing-wc@bhhc.com",
-      "newclaim@bhhc.com",
-      "pcmarketing@bhhc.com",
-      "property@bhhomestate.com",
-      "webmaster@bhhc.com"
+      "customercare@bhhc.com"
     ],
-    "email_count": 13,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -698,15 +423,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "biobureau.com.br",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "blast.security",
     "contact_emails": [
       "careers@blast.security"
@@ -718,74 +434,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "blindpay.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "blueshoe.com",
     "contact_emails": [
       "support@blueshoe.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "bmsgroup.com.br",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "bold.security",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "boltz.bio",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "bradsdeals.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "brain.fi",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "brighttangerine.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -806,12 +459,9 @@
   {
     "domain": "buildwithtrace.com",
     "contact_emails": [
-      "ayo@buildwithtrace.com",
-      "hello@buildwithtrace.com",
-      "jeff@buildwithtrace.com",
-      "olu@buildwithtrace.com"
+      "hello@buildwithtrace.com"
     ],
-    "email_count": 4,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -820,24 +470,13 @@
   {
     "domain": "bundledocs.com",
     "contact_emails": [
-      "apac.support@bundledocs.com",
       "careers@bundledocs.com",
       "compliance@bundledocs.com",
       "info@bundledocs.com",
-      "lisa@bundledocs.com",
       "sales@bundledocs.com",
       "support@bundledocs.com"
     ],
-    "email_count": 7,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "burbio.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 5,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -847,35 +486,6 @@
     "domain": "buymeacoffee.com",
     "contact_emails": [
       "support@buymeacoffee.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "bythen.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "callgrid.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "canix.com",
-    "contact_emails": [
-      "hi@canix.com"
     ],
     "email_count": 1,
     "security_program": "none",
@@ -918,47 +528,13 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "ccmchase.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "cdsgroupe.com",
-    "contact_emails": [
-      "metheve@cdsgroupe.com",
-      "rxerri@cdsgroupe.com",
-      "rxerri@sforbt.com"
-    ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "cfstinson.com",
     "contact_emails": [
       "customerservice@anzea.com",
       "customerservice@cfstinson.com",
-      "inquiries@arc-com.com",
-      "orders@arc-com.com",
-      "orders@cfstinson.com",
-      "samples@cfstinson.com"
+      "inquiries@arc-com.com"
     ],
-    "email_count": 6,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "chargeback.io",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 3,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -967,11 +543,10 @@
   {
     "domain": "charthop.com",
     "contact_emails": [
-      "people-team@charthop.com",
       "press@charthop.com",
       "support@charthop.com"
     ],
-    "email_count": 3,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1011,15 +586,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "circuitry.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "citsolutions.net",
     "contact_emails": [
       "info@citsolutions.net",
@@ -1034,41 +600,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "civicmarketplace.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "cixon.de",
-    "contact_emails": [
-      "mail@cixon.de"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "classfit.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "clearesult.com",
     "contact_emails": [
-      "media@clearesult.com",
-      "supplierdiversity@clearesult.com"
+      "media@clearesult.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1100,49 +636,10 @@
     "domain": "cloverly.com",
     "contact_emails": [
       "hello@cloverly.com",
-      "josh@cloverly.com",
-      "kimberly@ceezer.earth",
       "sales@cloverly.com",
-      "suppliers@cloverly.com",
       "support@cloverly.com"
     ],
-    "email_count": 6,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "cobratate.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "cognifit.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "collection.com.br",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "commoninja.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 3,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1162,51 +659,8 @@
   {
     "domain": "comundo.io",
     "contact_emails": [
-      "annemiek@comundo.io",
-      "danskebank@comundo.io",
       "hello@comundo.io",
       "support@comundo.io"
-    ],
-    "email_count": 4,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "contraktor.com.br",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "conversion.com.br",
-    "contact_emails": [
-      "comercial@conversion.com.br"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "copera.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "copilot.tax",
-    "contact_emails": [
-      "comercial@copilot.tax",
-      "hola@copilot.tax"
     ],
     "email_count": 2,
     "security_program": "none",
@@ -1218,57 +672,6 @@
     "domain": "coraly.ai",
     "contact_emails": [
       "support@coraly.ai"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "coram.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "corvera.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "covel.cl",
-    "contact_emails": [
-      "contacto@covel.cl"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "cpfcnpj.com.br",
-    "contact_emails": [
-      "contato@cpfcnpj.com.br"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "cravit.nl",
-    "contact_emails": [
-      "office@cravit.nl"
     ],
     "email_count": 1,
     "security_program": "none",
@@ -1290,29 +693,10 @@
   {
     "domain": "creatorland.com",
     "contact_emails": [
-      "dealsync@creatorland.com",
       "info@creatorland.com",
       "support@creatorland.com"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "criterionrsch.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "cuebiq.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1327,15 +711,6 @@
       "team@cuttable.com"
     ],
     "email_count": 4,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "cyberarmorsystems.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1364,26 +739,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "danielatombini.com.br",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "databend.com",
-    "contact_emails": [
-      "hi@databend.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "datalastic.com",
     "contact_emails": [
       "support@datalastic.com"
@@ -1397,12 +752,11 @@
   {
     "domain": "deako.com",
     "contact_emails": [
-      "lightingconsultants@deako.com",
       "press@deako.com",
       "sales@deako.com",
       "support@deako.com"
     ],
-    "email_count": 4,
+    "email_count": 3,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1431,49 +785,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "default.com",
-    "contact_emails": [
-      "albert@amplemarket.com",
-      "albert@figma.com",
-      "emma@airtable.com",
-      "emma@attio.com",
-      "james.smith@apollo.io",
-      "james.smith@notion.com",
-      "patricia.johnson@calendly.com",
-      "patricia@linkedin.com"
-    ],
-    "email_count": 8,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "defillama.com",
     "contact_emails": [
       "support@defillama.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "deltaforge.tech",
-    "contact_emails": [
-      "contactus@deltaforge.tech"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "dfactory.pro",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1505,19 +821,9 @@
   {
     "domain": "digiteka.com",
     "contact_emails": [
-      "info@digiteka.com",
-      "videos@digiteka.com"
+      "info@digiteka.com"
     ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "dimuto.io",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1537,11 +843,9 @@
   {
     "domain": "docue.com",
     "contact_emails": [
-      "hannah@docue.com",
-      "heather@docue.com",
       "support@docue.com"
     ],
-    "email_count": 3,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1560,30 +864,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "dreambound.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "dreamsetgo.com",
     "contact_emails": [
-      "careers@dreamsetgo.com",
-      "contactus@dreamsetgo.com"
+      "careers@dreamsetgo.com"
     ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "dripshop.live",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1603,73 +888,13 @@
   {
     "domain": "drmgroup.com",
     "contact_emails": [
-      "cromano@oscarentin.com",
-      "daves@bradtco.com",
-      "egidio.naso@pepag.eu",
-      "franco.tavani@gstsas.com",
-      "gb@gbldrm.com",
-      "goled@goled.hr",
-      "gsmaravilla@pure-chem.com.ph",
-      "hacohens@zahav.net.il",
-      "info-cn@drmgroup.com",
-      "info-in@drmgroup.com",
-      "info-my@drmgroup.com",
-      "info-pl@drmgroup.com",
-      "info-us@drmgroup.com",
       "info@ditap.fi",
       "info@drmgroup.com",
       "info@filtration.be",
       "info@gtcegypt.net",
-      "knut-erik@haakonlarsen.com",
-      "kwnam@drmkorea.com",
-      "labtec@rdslink.ro",
-      "m.rinju@petronagulf.com",
-      "martin.pfeiffer@drmgroup.com",
-      "miguel.sanchez@jet-ps.com",
-      "nattawut@pts-thai.com",
-      "office.hu@ferrygrp.com",
-      "patel.sailesh1@icloud.com",
-      "paulo@stellaviegas.com.br",
-      "pbelcarz@vision-solutions.ca",
-      "pge@ige.es",
-      "poltak@ingenious.co.id",
-      "racki.cezary@drmgroup.com",
-      "roland.carlberg@rcprocess.se",
-      "sales@kslteknik.com",
-      "shomail.gmp@gmail.com",
-      "tecprol@tecprol.cl",
-      "winsen@jcmt.com.tw"
+      "sales@kslteknik.com"
     ],
-    "email_count": 36,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "dropi.co",
-    "contact_emails": [
-      "soporte.dropi@dropi.co"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "dumfriesva.gov",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "dutyfreedynamics.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 5,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1681,15 +906,6 @@
       "info@ebhoom.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "ebu.ch",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1709,10 +925,9 @@
   {
     "domain": "efuneral.com",
     "contact_emails": [
-      "help@efuneral.com",
-      "partner@efuneral.com"
+      "help@efuneral.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1732,10 +947,9 @@
   {
     "domain": "elements.tv",
     "contact_emails": [
-      "info@elements.tv",
-      "us-sales@elements.tv"
+      "info@elements.tv"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1747,15 +961,6 @@
       "sales@elevatusit.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "emaillove.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1779,24 +984,6 @@
       "info@empowerbh.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "encord.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "enpass.io",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1873,23 +1060,13 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "evoluaenergia.com.br",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "exa22.com",
     "contact_emails": [
-      "career@exa22.com",
       "info@exa22.com",
       "sales@exa22.com",
       "support@exa22.com"
     ],
-    "email_count": 4,
+    "email_count": 3,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1907,31 +1084,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "expertpartners.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "extole.com",
     "contact_emails": [
       "hello@extole.com",
-      "pr@extole.com",
       "support@extole.com"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "eyequant.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -1960,15 +1118,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "fanvue.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "finaloop.com",
     "contact_emails": [
       "hello@finaloop.com",
@@ -1983,12 +1132,10 @@
   {
     "domain": "finalto.com",
     "contact_emails": [
-      "Marketing@finalto.com",
       "Sales@finalto.com",
-      "marketing@finalto.com",
       "privacy@finalto.com"
     ],
-    "email_count": 4,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2006,15 +1153,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "finhay.com.vn",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "firecrawl.dev",
     "contact_emails": [
       "help@firecrawl.com"
@@ -2026,21 +1164,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "firstround.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "flagsmith.com",
     "contact_emails": [
-      "delboy@trotterstraders.co.uk",
       "info@flagsmith.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2051,11 +1179,10 @@
     "contact_emails": [
       "careers@flair.co",
       "media@flair.co",
-      "pros@flair.co",
       "sales@flair.co",
       "support@flair.co"
     ],
-    "email_count": 5,
+    "email_count": 4,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2087,23 +1214,9 @@
     "domain": "flowaccount.com",
     "contact_emails": [
       "billing@flowaccount.com",
-      "demo@flowaccount.com",
-      "event@flowaccount.com",
-      "partner@flowaccount.com",
       "support@flowaccount.com"
     ],
-    "email_count": 5,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "folk.app",
-    "contact_emails": [
-      "folks@folk.app"
-    ],
-    "email_count": 1,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2115,21 +1228,6 @@
       "support@folloze.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "fore.dev",
-    "contact_emails": [
-      "elin@for.dev.se",
-      "elin@fore.dev",
-      "gosta@fore.dev",
-      "kundservice@varbergenergi.se",
-      "martin@fore.dev"
-    ],
-    "email_count": 5,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2150,11 +1248,9 @@
   {
     "domain": "formedideas.com",
     "contact_emails": [
-      "joel@formedideas.com",
-      "support@formedideas.com",
-      "william@formedideas.com"
+      "support@formedideas.com"
     ],
-    "email_count": 3,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2163,20 +1259,9 @@
   {
     "domain": "foundernest.com",
     "contact_emails": [
-      "customersuccess@foundernest.com",
-      "enquiries@foundernest.com",
-      "marketing@foundernest.com"
+      "customersuccess@foundernest.com"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "frontierdirect.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2185,12 +1270,11 @@
   {
     "domain": "fullcodemedical.com",
     "contact_emails": [
-      "clinicalteam@fullcodemedical.com",
       "sales@fullcodedev.wpengine.com",
       "sales@fullcodemedical.com",
       "support@fullcodemedical.com"
     ],
-    "email_count": 4,
+    "email_count": 3,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2210,20 +1294,10 @@
   {
     "domain": "fusionspan.com",
     "contact_emails": [
-      "hr-india@fusionspan.com",
       "info@fusionSpan.com",
       "info@fusionspan.com"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "gabster.ai",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2236,19 +1310,6 @@
       "support@genvid.com"
     ],
     "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "genzdealz.ai",
-    "contact_emails": [
-      "akshay@GenZDealZ.ai",
-      "yo@GenZDealZ.ai",
-      "yo@genzdealz.ai"
-    ],
-    "email_count": 3,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2271,10 +1332,9 @@
       "finance@getaccept.com",
       "hello@getaccept.com",
       "jobs@getaccept.com",
-      "marketing@getaccept.com",
       "support@getaccept.com"
     ],
-    "email_count": 5,
+    "email_count": 4,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2283,19 +1343,9 @@
   {
     "domain": "getbuddi.ai",
     "contact_emails": [
-      "hello@getbuddi.ai",
-      "lock-in@getbuddi.ai"
+      "hello@getbuddi.ai"
     ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "getdeck.io",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2308,35 +1358,6 @@
       "hello@getnylo.com"
     ],
     "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "getridley.com",
-    "contact_emails": [
-      "hi@getridley.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "getscalability.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "gimmefylabs.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2356,10 +1377,9 @@
   {
     "domain": "gitguardian.com",
     "contact_emails": [
-      "marketing@gitguardian.com",
       "support@gitguardian.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2372,37 +1392,6 @@
       "support@givebutter.com"
     ],
     "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "gladium.ai",
-    "contact_emails": [
-      "paolo@gladium.ai"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "glam.ai",
-    "contact_emails": [
-      "supportdesktop@glamlabs.app"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "globaldata.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2422,28 +1411,9 @@
   {
     "domain": "gohubsteel.com",
     "contact_emails": [
-      "estimating@gohubsteel.com",
       "jobs@gohubsteel.com"
     ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "golinks.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "goodlawyer.ca",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2453,28 +1423,9 @@
     "domain": "govspend.com",
     "contact_emails": [
       "media@govspend.com",
-      "recruiting@govspend.com",
       "support@govspend.com"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "graas.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "graneet.fr",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2494,10 +1445,9 @@
   {
     "domain": "gridlex.com",
     "contact_emails": [
-      "apps@gridlex.com",
       "hr@gridlex.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2506,47 +1456,10 @@
   {
     "domain": "growth99.com",
     "contact_emails": [
-      "accounting@growth99.com",
       "sales@growth99.com",
       "support@growth99.com"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "grupodecio.com.br",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "grydd.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "guides.co",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "hawky.ai",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2556,22 +1469,10 @@
     "domain": "helfinch.com",
     "contact_emails": [
       "care@eshopbox.com",
-      "csr@helfinch.com",
       "media@helfinch.com",
-      "orders@helfinch.com",
-      "support@helfinch.com",
-      "warranty@helfinch.com"
+      "support@helfinch.com"
     ],
-    "email_count": 6,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "heymilo.ai",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 3,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2591,20 +1492,9 @@
   {
     "domain": "hightideinc.com",
     "contact_emails": [
-      "cbrownlee@hightideinc.com",
-      "info@hightideinc.com",
-      "ir@hightideinc.com"
+      "info@hightideinc.com"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "higoodie.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2634,59 +1524,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "holded.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "holdprint.net",
-    "contact_emails": [
-      "holdprint@holdprint.net"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "homerunner.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "honasa.in",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "honcho.com.au",
     "contact_emails": [
       "media@honcho.com",
       "support@honcho.com"
     ],
     "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "hotstuff.trade",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2704,25 +1547,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "hunguesthotels.hu",
-    "contact_emails": [
-      "hotel@andrassykuria.hu",
-      "hotelapollo@hunguesthotels.hu",
-      "torzsvendegcentrum@hunguesthotels.hu"
-    ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "hy.digital",
     "contact_emails": [
-      "client@hy-digital.com",
       "hello@hy-digital.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2751,49 +1580,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "hyundaifuturenet.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "ibanfirst.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "ifthen.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "immedio.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "immocloud.de",
     "contact_emails": [
       "info@immocloud.de",
-      "marketing@immocloud.de",
       "support@immocloud.de"
     ],
-    "email_count": 3,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2813,11 +1605,9 @@
   {
     "domain": "impossible.io",
     "contact_emails": [
-      "hello-eu@impossible.io",
-      "hello-us@impossible.io",
       "hello@impossible.io"
     ],
-    "email_count": 3,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2826,10 +1616,9 @@
   {
     "domain": "incapto.com",
     "contact_emails": [
-      "hello@incapto.com",
-      "professional@incapto.com"
+      "hello@incapto.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2838,48 +1627,10 @@
   {
     "domain": "industrialinfo.com",
     "contact_emails": [
-      "australia@industrialinfo.com",
       "customerservice@industrialinfo.com",
-      "dubai@industrialinfo.com",
-      "iirteam@iirenergy.com",
-      "india@industrialinfo.com",
-      "info@industrialinfo.eu",
-      "japan@industrialinfo.com",
-      "korea@industrialinfo.com",
-      "manila@industrialinfo.com",
-      "ventas@industrialinfo.com"
-    ],
-    "email_count": 10,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "inflearn.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "influencer.in",
-    "contact_emails": [
-      "Enquiry@influencer.in",
-      "enquiry@influencer.in"
+      "info@industrialinfo.eu"
     ],
     "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "infolegale.fr",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2897,52 +1648,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "innovecs.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "insportline.cz",
-    "contact_emails": [
-      "obchod.brno@insportline.cz",
-      "obchod.ostrava@insportline.cz",
-      "obchod.praha10@insportline.cz",
-      "obchod.vitkov@insportline.cz"
-    ],
-    "email_count": 4,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "institutomix.com.br",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "intelas.com",
     "contact_emails": [
       "contact@intelas.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "interceptgroup.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -2960,67 +1670,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "investorlift.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "invoicexpress.com",
     "contact_emails": [
       "support@invoicexpress.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "jamloop.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "jaz.ai",
-    "contact_emails": [
-      "john@acme.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "jelou.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "jiminny.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "jobin.cloud",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3041,46 +1695,6 @@
     "domain": "jtkmarketing.com",
     "contact_emails": [
       "info@jtkmarketing.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "juma.ai",
-    "contact_emails": [
-      "humans@juma.ai"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "k9security.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "kanna4u.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "kease.io",
-    "contact_emails": [
-      "reservations@kease.io"
     ],
     "email_count": 1,
     "security_program": "none",
@@ -3114,12 +1728,10 @@
   {
     "domain": "kilde.sg",
     "contact_emails": [
-      "hatadi@kilde.sg",
-      "johanna@kilde.sg",
       "media@kilde.sg",
       "sales@kilde.sg"
     ],
-    "email_count": 4,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3138,41 +1750,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "knips.com",
-    "contact_emails": [
-      "hey@knips.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "knoxed.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "kobbr.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "komodor.com",
     "contact_emails": [
-      "gtmteam@komodor.com",
       "support@komodor.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3190,50 +1772,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "kotlinlang.org",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "lastcallanalytics.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "latitude.sh",
     "contact_emails": [
       "legal@latitude.sh",
       "sales@latitude.sh"
     ],
     "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "lawcyborg.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "laylinetech.com",
-    "contact_emails": [
-      "office@laylinetech.com"
-    ],
-    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3277,15 +1821,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "leasecalcs.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "ledsone.co.uk",
     "contact_emails": [
       "admin@ledsone.de",
@@ -3303,19 +1838,9 @@
   {
     "domain": "leftbrain.io",
     "contact_emails": [
-      "help@leftbrain.io",
-      "hi@leftbrain.io"
+      "help@leftbrain.io"
     ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "legalboards.io",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3369,10 +1894,9 @@
   {
     "domain": "libris.ro",
     "contact_emails": [
-      "contact@libris.ro",
-      "vanzari@libris.ro"
+      "contact@libris.ro"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3406,31 +1930,8 @@
   {
     "domain": "linguado.com",
     "contact_emails": [
-      "invest@linguado.com",
       "jobs@linguado.com",
-      "marketing@linguado.com",
       "support@linguado.com"
-    ],
-    "email_count": 4,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "logestechs.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "londonserenity.com",
-    "contact_emails": [
-      "bookings@londonserenity.com",
-      "careers@londonserenity.com"
     ],
     "email_count": 2,
     "security_program": "none",
@@ -3439,9 +1940,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "losant.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "domain": "londonserenity.com",
+    "contact_emails": [
+      "careers@londonserenity.com"
+    ],
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3461,10 +1964,9 @@
   {
     "domain": "lotto-niedersachsen.de",
     "contact_emails": [
-      "info@lotto-niedersachsen.de",
-      "spielerschutz@lotto-niedersachsen.de"
+      "info@lotto-niedersachsen.de"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3477,15 +1979,6 @@
       "partners@ls2.io"
     ],
     "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "lst.team",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3514,39 +2007,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "madisonai.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "magazord.com.br",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "magpieiq.com",
     "contact_emails": [
-      "sales@magpieiq.com",
-      "wilhendra@magpieiq.com"
+      "sales@magpieiq.com"
     ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "mailerfind.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3555,10 +2020,9 @@
   {
     "domain": "mailsuite.com",
     "contact_emails": [
-      "pr@mailsuite.com",
       "privacy@mailsuite.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3587,45 +2051,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "makersights.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "malou.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "mancommx.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "mandaprofinanceiro.com",
-    "contact_emails": [
-      "contato@mandaprofinanceiro.com",
-      "financeiro@suaempresa.com"
-    ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "maple.com",
     "contact_emails": [
       "support@maple.com"
@@ -3639,10 +2064,9 @@
   {
     "domain": "marketingminer.com",
     "contact_emails": [
-      "info@marketingminer.com",
-      "tomas@marketingminer.com"
+      "info@marketingminer.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3673,10 +2097,9 @@
   {
     "domain": "mcleodsoftware.com",
     "contact_emails": [
-      "Reception@McLeodSoftware.com",
       "Sales@McLeodSoftware.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3705,24 +2128,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "meetleo.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "melba.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "melius.com",
     "contact_emails": [
       "careers@melius.com"
@@ -3734,21 +2139,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "memories.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "mergr.com",
     "contact_emails": [
-      "deals@mergr.com",
       "support@mergr.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3757,10 +2152,9 @@
   {
     "domain": "merrittadvisory.com",
     "contact_emails": [
-      "contactus@merrittadvisory.com",
       "info@merrittadvisory.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3770,19 +2164,9 @@
     "domain": "metergrid.de",
     "contact_emails": [
       "info@metergrid.de",
-      "presse@metergrid.de",
       "sales@metergrid.de"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "mikfs.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3816,10 +2200,9 @@
   {
     "domain": "mistywest.com",
     "contact_emails": [
-      "contact@mistywest.com",
-      "rookie@mistywest.com"
+      "contact@mistywest.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3842,20 +2225,6 @@
       "Info@modrek.ai"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "mongodb.com",
-    "contact_emails": [
-      "joev@metasploit.com",
-      "mitch@wassonlabs.com",
-      "vinci+hof@protonmail.ch",
-      "will.ashworth@pimberly.com"
-    ],
-    "email_count": 4,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3908,10 +2277,9 @@
   {
     "domain": "mycma.com",
     "contact_emails": [
-      "applications@mycma.com",
       "info@mycma.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -3931,28 +2299,7 @@
   {
     "domain": "myvert.com",
     "contact_emails": [
-      "info@vertsports.com",
-      "performance@myvert.com"
-    ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "nachonacho.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "nautipark.com",
-    "contact_emails": [
-      "commercial@nautipark.com"
+      "info@vertsports.com"
     ],
     "email_count": 1,
     "security_program": "none",
@@ -3961,62 +2308,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "ncino.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "nell.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "netnut.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "nevermisshq.com",
-    "contact_emails": [
-      "career@nevermisshq.com",
-      "rayhanmahmood@nevermisshq.com"
-    ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "newprojectmedia.com",
     "contact_emails": [
-      "brett.birman@newprojectmedia.com",
       "careers@newprojectmedia.com",
-      "help@newprojectmedia.com",
-      "laurence.edwards@newprojectmedia.com"
+      "help@newprojectmedia.com"
     ],
-    "email_count": 4,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "nextmotion.net",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4045,15 +2342,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "nim.video",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "nobleblocks.com",
     "contact_emails": [
       "info@nobleblocks.com"
@@ -4068,12 +2356,11 @@
     "domain": "northbeam.io",
     "contact_emails": [
       "partners@northbeam.io",
-      "people@northbeam.io",
       "privacy@northbeam.io",
       "sales@northbeam.io",
       "success@northbeam.io"
     ],
-    "email_count": 5,
+    "email_count": 4,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4091,40 +2378,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "ocoya.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "octus.com",
-    "contact_emails": [
-      "marketing@octus.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "ohiolegalhelp.org",
     "contact_emails": [
       "info@ohiolegalhelp.org"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "omi.so",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4148,15 +2406,6 @@
       "hello@osmo.supply"
     ],
     "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "oneclickads.com.br",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4196,60 +2445,9 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "opengrants.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "openrouter.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "opensea.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "opinly.ai",
     "contact_emails": [
       "support@opinly.ai"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "opoint.com",
-    "contact_emails": [
-      "Toby.Cook@opoint.co",
-      "solutions@opoint.com",
-      "toby.cook@opoint.co"
-    ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "organizze.com.br",
-    "contact_emails": [
-      "oi@organizze.com.br"
     ],
     "email_count": 1,
     "security_program": "none",
@@ -4292,21 +2490,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "outdoorsy.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "paapi.ai",
     "contact_emails": [
-      "dan@paapi.ai",
       "dpo@paapi.ai"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4316,13 +2504,11 @@
     "domain": "panoramaed.com",
     "contact_emails": [
       "contact@panoramaed.com",
-      "peopleteam@panoramaed.com",
-      "pr@panoramaed.com",
       "privacy@panoramaed.com",
       "security@panoramaed.com",
       "support@panoramaed.com"
     ],
-    "email_count": 6,
+    "email_count": 4,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4340,60 +2526,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "partouche.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "paytmpayments.com",
-    "contact_emails": [
-      "pg.support@paytmpayments.com",
-      "secretarial@paytmpayments.com"
-    ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "pex.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "phantombuster.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "phylo.bio",
     "contact_emails": [
       "careers@phylo.bio",
       "contact@phylo.bio"
     ],
     "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "picadeli.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4437,40 +2575,9 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "pinto.com.ec",
-    "contact_emails": [
-      "servicioalcliente@pinto.com.ec"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "plansom.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "playsuper.ai",
     "contact_emails": [
       "business@playsuper.ai"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "playyourbrand.com",
-    "contact_emails": [
-      "hola@playyourbrand.com"
     ],
     "email_count": 1,
     "security_program": "none",
@@ -4490,31 +2597,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "popety.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "portal26.ai",
     "contact_emails": [
       "info@portal26.ai",
-      "info@titaniam.io",
-      "neil.cohen@portal26.ai"
+      "info@titaniam.io"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "premium-sa.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4557,12 +2645,9 @@
   {
     "domain": "proemion.com",
     "contact_emails": [
-      "info-dayton@proemion.com",
-      "info-seoul@proemion.com",
-      "info-tokyo@proemion.com",
       "info@proemion.com"
     ],
-    "email_count": 4,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4580,23 +2665,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "prospecta.digital",
-    "contact_emails": [
-      "contato@prospecta.digital"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "prosvita.net",
     "contact_emails": [
-      "client@prosvita.net",
       "support@prosvita.net"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4615,74 +2688,14 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "purplewave.com",
-    "contact_emails": [
-      "auction@purplewave.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "pushnami.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "puter.com",
-    "contact_emails": [
-      "hi@puter.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "puzzle.io",
     "contact_emails": [
-      "api@puzzle.io",
       "careers@puzzle.io",
       "feedback@puzzle.io",
-      "getstarted@puzzle.io",
       "help@puzzle.io",
       "support@puzzle.io"
     ],
-    "email_count": 6,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "qapla.it",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "qencode.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "qobra.co",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 4,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4702,23 +2715,7 @@
   {
     "domain": "racap.com",
     "contact_emails": [
-      "general@racap.com",
-      "hiring@racap.com",
-      "internship@racap.com",
-      "ir@racap.com",
-      "media@racap.com",
-      "request@racap.com"
-    ],
-    "email_count": 6,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "ranger.net",
-    "contact_emails": [
-      "howdy@ranger.net"
+      "media@racap.com"
     ],
     "email_count": 1,
     "security_program": "none",
@@ -4741,11 +2738,9 @@
   {
     "domain": "rapidata.ai",
     "contact_emails": [
-      "gregg@gthreemedia.com",
-      "info@rapidata.ai",
-      "join@rapidata.ai"
+      "info@rapidata.ai"
     ],
-    "email_count": 3,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4778,10 +2773,9 @@
   {
     "domain": "reactordata.com",
     "contact_emails": [
-      "amy@acme.io",
       "support@reactordata.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4799,33 +2793,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "realmhome.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "realytics.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "recruitwithatlas.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "redonlinemarketing.nl",
     "contact_emails": [
       "info@redonlinemarketing.nl"
@@ -4837,37 +2804,14 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "reelevant.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "replenysh.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "resend.com",
     "contact_emails": [
-      "bu@resend.com",
       "careers@resend.com",
-      "delivered@resend.dev",
-      "jonni@resend.com",
       "onboarding@resend.dev",
       "security@resend.com",
-      "support@resend.com",
-      "zeh@resend.com",
-      "zeno@resend.com"
+      "support@resend.com"
     ],
-    "email_count": 9,
+    "email_count": 4,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4876,10 +2820,9 @@
   {
     "domain": "responsive.dk",
     "contact_emails": [
-      "info@responsive.dk",
-      "lise@responsive.dk"
+      "info@responsive.dk"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4888,10 +2831,9 @@
   {
     "domain": "retently.com",
     "contact_emails": [
-      "sales@retently.com",
-      "sc@retently.com"
+      "sales@retently.com"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4900,17 +2842,9 @@
   {
     "domain": "revalu.io",
     "contact_emails": [
-      "beatriz.olano@revalu.io",
-      "bjoern.maack@revalu.io",
-      "hello@revalu.io",
-      "jacques@revalu.io",
-      "jan@revalu.io",
-      "jogesh@revalu.io",
-      "kika@revalu.io",
-      "tommaso@revalu.io",
-      "yasmin@revalu.io"
+      "hello@revalu.io"
     ],
-    "email_count": 9,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4932,19 +2866,9 @@
   {
     "domain": "revido.co",
     "contact_emails": [
-      "jane@company.com",
       "sales@revido.io"
     ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "revolutionre.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -4990,21 +2914,9 @@
   {
     "domain": "runriviera.com",
     "contact_emails": [
-      "aisha.k@gmail.com",
-      "hello@runriviera.com",
-      "m.rivera@outlook.com",
-      "sarah.m@gmail.com"
+      "hello@runriviera.com"
     ],
-    "email_count": 4,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "runware.ai",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5041,19 +2953,9 @@
   {
     "domain": "sagareus.com",
     "contact_emails": [
-      "careers@sagareus.com",
-      "mgmt@sagareus.com"
+      "careers@sagareus.com"
     ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "sailpoint.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5094,29 +2996,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "scrive.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "scrollmark.com",
     "contact_emails": [
       "sales@scrollmark.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "sellfire.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5134,73 +3018,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "semway.no",
-    "contact_emails": [
-      "brekke@semway.no",
-      "hei@semway.no",
-      "ingrid@semway.no",
-      "kaja@semway.no",
-      "lindis@semway.no",
-      "magnus@semway.no",
-      "regine@semway.no",
-      "sofie@semway.no",
-      "terje@semway.no",
-      "therese@semway.no"
-    ],
-    "email_count": 10,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "senuto.com",
     "contact_emails": [
-      "a.bereda@senuto.com",
-      "l.fedor@senuto.com",
       "support@senuto.com"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "serpzilla.com",
-    "contact_emails": [
-      "contacts@serpzilla.com"
-    ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "serro.ai",
-    "contact_emails": [
-      "jake@serro.ai"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "sibermate.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "sidekick.cool",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5209,10 +3031,9 @@
   {
     "domain": "signit.sa",
     "contact_emails": [
-      "hala@signit.sa",
       "partners@signit.sa"
     ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5224,86 +3045,6 @@
       "press@siteimprove.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "skyfi.com",
-    "contact_emails": [
-      "Kammy@SkyFi.com",
-      "Tom@SkyFi.com"
-    ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "smallstep.com",
-    "contact_emails": [
-      "alan@smallstep.com",
-      "carl@smallstep.com",
-      "cass@smallstep.com",
-      "geoff@smallstep.com",
-      "herman@smallstep.com",
-      "hunter@smallstep.com",
-      "josh@smallstep.com",
-      "max@smallstep.com",
-      "mike@smallstep.com",
-      "ted@smallstep.com",
-      "tyler@smallstep.com"
-    ],
-    "email_count": 11,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "smartbreeder.com.br",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "smartsupp.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "sofiapulse.com",
-    "contact_emails": [
-      "agent@sofiapulse.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "solarfame.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "solidlabs.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5332,40 +3073,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "sowork.com",
-    "contact_emails": [
-      "aloha@sowork.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "spaceship.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "spaitial.ai",
     "contact_emails": [
       "info@spaitial.ai"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "sparkel.ai",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5396,22 +3108,9 @@
   {
     "domain": "stickybeak.co",
     "contact_emails": [
-      "anna@stickybeak.co",
       "support@stickybeak.co"
     ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "stilta.com",
-    "contact_emails": [
-      "founders@stilta.com",
-      "oskar@stilta.com"
-    ],
-    "email_count": 2,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5440,33 +3139,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "strappmobile.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "subway.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "sumary.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "superscale.ai",
     "contact_emails": [
       "support@superscale.ai"
@@ -5478,40 +3150,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "superside.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "svgator.com",
     "contact_emails": [
-      "community@svgator.com",
       "contact@svgator.com",
       "info@update.es"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "svi.edu.au",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "switch-soft.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5529,78 +3173,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "syatt.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "synatic.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "syncwith.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "syspos.ae",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "tableau.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "talenesia.com",
-    "contact_emails": [
-      "konsultankerja@talenesia.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "talentsprout.ai",
     "contact_emails": [
       "careers@talentsprout.ai",
-      "matthew@talentsprout.ai",
       "support@talentsprout.ai"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "talkspirit.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5620,29 +3198,7 @@
   {
     "domain": "tbobank.com",
     "contact_emails": [
-      "branchinfo@tbo.bank",
-      "info@tbobank.com",
-      "supportteam@tbobank.com"
-    ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "terranova.inc",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "testnovalabs.com",
-    "contact_emails": [
-      "innovation@testnovalabs.com"
+      "info@tbobank.com"
     ],
     "email_count": 1,
     "security_program": "none",
@@ -5662,70 +3218,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "theanna.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "theboavidagroup.com",
-    "contact_emails": [
-      "Alan@theBoaVidaGroup.com",
-      "Aric@theBoaVidaGroup.com",
-      "Brian@theBoaVidaGroup.com",
-      "Danny@theBoaVidaGroup.com",
-      "Eli@theBoaVidaGroup.com",
-      "Kimberly@BoaVidaMHP.com",
-      "Mark@theBoaVidaGroup.com",
-      "Noah@theBoaVidaGroup.com",
-      "Rachel@theBoaVidaGroup.com",
-      "Zach@BoaVidaRV.com"
-    ],
-    "email_count": 10,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "thecoraledge.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "thefly.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "thehog.ai",
     "contact_emails": [
       "support@thehog.ai"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "thelocopolo.com",
-    "contact_emails": [
-      "comercial@locopolo.com",
-      "hola@locopolo.com"
-    ],
-    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5765,47 +3262,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "thruline.co",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "ticketbox.vn",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "tidewatercap.com",
     "contact_emails": [
       "info@tidewatercap.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "timelyschools.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "titles.xyz",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5823,32 +3284,9 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "tokonoma.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "toss.im",
     "contact_emails": [
-      "ir@toss.im",
-      "partnership@toss.im",
-      "safe@toss.im",
       "support@toss.im"
-    ],
-    "email_count": 4,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "tramasmas.com",
-    "contact_emails": [
-      "posventa@tramasmas.com"
     ],
     "email_count": 1,
     "security_program": "none",
@@ -5892,26 +3330,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "tromml.com",
-    "contact_emails": [
-      "lauren@tromml.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "trustworks.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "trysmartbite.com",
     "contact_emails": [
       "info@trysmartbite.com"
@@ -5935,42 +3353,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "tubularlabs.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "typedesk.com",
     "contact_emails": [
-      "bob@typedesk.com",
-      "dana.wish@gmail.com",
-      "diana@typedesk.com",
-      "elon@spacex.com",
       "support@typedesk.com"
     ],
-    "email_count": 5,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "ubi-global.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "udacity.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -5979,28 +3366,9 @@
   {
     "domain": "ukpropertyaccountants.co.uk",
     "contact_emails": [
-      "contact@ukpa.co.uk",
-      "uae@ukpa.co.uk"
+      "contact@ukpa.co.uk"
     ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "ultipa.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "unbounce.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -6030,39 +3398,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "unsiloed.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "upnova.io",
     "contact_emails": [
       "hello@upnova.io",
       "support@upnova.io"
     ],
     "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "urumi.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "usewheelhouse.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -6093,88 +3434,7 @@
   {
     "domain": "validis.com",
     "contact_emails": [
-      "info@validis.com",
-      "people@validis.com"
-    ],
-    "email_count": 2,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "vammo.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "vanaways.co.uk",
-    "contact_emails": [
-      "alastair.harris@vanaways.co.uk",
-      "alfie.gormley@vanaways.co.uk",
-      "alharit.attaguri@vanaways.co.uk",
-      "amy.hembrough@vanaways.co.uk",
-      "ashraful.haque@vanaways.co.uk",
-      "beth.jenkins@vanaways.co.uk",
-      "careers@vanaways.co.uk",
-      "careers@vansalesuk.co.uk",
-      "cedric.ratnasingham@vanaways.co.uk",
-      "corey.johnson@vanaways.co.uk",
-      "david.burrell@vanaways.co.uk",
-      "denitsa.simova@vanaways.co.uk",
-      "dorian.domeradzki@vanaways.co.uk",
-      "edward.farrow@vanaways.co.uk",
-      "ellie.smith@vanaways.co.uk",
-      "gabby.bath@vanaways.co.uk",
-      "gemma.knowles-myhill@vanaways.co.uk",
-      "gio.posa@vanaways.co.uk",
-      "hannah.hill@vanaways.co.uk",
-      "hannah.pearson@vanaways.co.uk",
-      "holly.toop@vanaways.co.uk",
-      "ilze.kyriacou@vanaways.co.uk",
-      "jack.doney@vanaways.co.uk",
-      "jacob.dixon@vanaways.co.uk",
-      "james.havill@vanaways.co.uk",
-      "jed.williams@vanaways.co.uk",
-      "jihad.khan@vanaways.co.uk",
-      "josh.brimble@vanaways.co.uk",
-      "kelly.read@vanaways.co.uk",
-      "kevin.baber@vanaways.co.uk",
-      "leads@vanaways.co.uk",
-      "lewis.boreham@vanaways.co.uk",
-      "lewis.wheatcroft@vanaways.co.uk",
-      "liam.nicholas@vanaways.co.uk",
-      "mark.taylor@vanaways.co.uk",
-      "matt.wood@vanaways.co.uk",
-      "millie.lewis@vanaways.co.uk",
-      "mollie.potter@vanaways.co.uk",
-      "nick.alexander@vanaways.co.uk",
-      "rob.upjohn@vanaways.co.uk",
-      "robert.prideaux@vanaways.co.uk",
-      "ross.wild@vanaways.co.uk",
-      "sam.lewis@vanaways.co.uk",
-      "shina.teniola@vanaways.co.uk",
-      "simon.lewis@vanaways.co.uk",
-      "sophie.caswell@vanaways.co.uk",
-      "stacey.weston@vanaways.co.uk",
-      "tomas.meneses@vanaways.co.uk",
-      "tyler.flage@vanaways.co.uk",
-      "yasmin.sandy@vanaways.co.uk"
-    ],
-    "email_count": 50,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "vasa.works",
-    "contact_emails": [
-      "hi@vasa.works"
+      "info@validis.com"
     ],
     "email_count": 1,
     "security_program": "none",
@@ -6183,10 +3443,10 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "verticalresponse.com",
+    "domain": "vanaways.co.uk",
     "contact_emails": [
-      "askus@verticalresponse.com",
-      "laoshe_lao73@gmail.com"
+      "careers@vanaways.co.uk",
+      "careers@vansalesuk.co.uk"
     ],
     "email_count": 2,
     "security_program": "none",
@@ -6197,17 +3457,9 @@
   {
     "domain": "vfp-consulting.com",
     "contact_emails": [
-      "djohnston@vfp-consulting.com",
-      "gplaisance@vfp-consulting.com",
-      "info@vfp-consulting.com",
-      "khubbard@vfp-consulting.com",
-      "mkelly@vfp-consulting.com",
-      "nanderson@vfp-consulting.com",
-      "racosta@vfp-consulting.com",
-      "spicardi@vfp-consulting.com",
-      "talibhai@vfp-consulting.com"
+      "info@vfp-consulting.com"
     ],
-    "email_count": 9,
+    "email_count": 1,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -6237,51 +3489,12 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "vistasocial.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "vmv.group",
-    "contact_emails": [
-      "contato@vmv.group"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "vocci.ai",
     "contact_emails": [
       "business@vocci.ai",
-      "pr@vocci.ai",
       "support@vocci.ai"
     ],
-    "email_count": 3,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "volonte.co",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "voluum.com",
-    "contact_emails": [],
-    "email_count": 0,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -6299,67 +3512,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "vsslagency.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "vyrian.com",
     "contact_emails": [
       "sales@vyrian.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "waitry.net",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "wandify.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "wearegenial.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "wecapital.com.br",
-    "contact_emails": [
-      "contato@wecapital.com.br"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "weglot.com",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -6399,40 +3556,11 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "withjuly.com",
-    "contact_emails": [
-      "build@withjuly.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "withvayu.com",
     "contact_emails": [
       "contact@withvayu.com"
     ],
     "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "wope.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "workerbee.ai",
-    "contact_emails": [],
-    "email_count": 0,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -6450,53 +3578,6 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "worksmobile.com",
-    "contact_emails": [
-      "naverworks_marketing@navercorp.com"
-    ],
-    "email_count": 1,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "worldsys.io",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "wovenmedia.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "wtax.co",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "wubble.ai",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "xano.com",
     "contact_emails": [
       "support@xano.com"
@@ -6508,44 +3589,13 @@
     "security_rewards": "NOT STATED"
   },
   {
-    "domain": "yocabe.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
     "domain": "yoco.com",
     "contact_emails": [
-      "chargebacks@yoco.com",
-      "complaint@yoco.com",
       "legal@yoco.com",
       "press@yoco.com",
       "sales@yoco.com"
     ],
-    "email_count": 5,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "yummysuperapp.com",
-    "contact_emails": [],
-    "email_count": 0,
-    "security_program": "none",
-    "security_contact": "NOT STATED",
-    "security_platform": "NOT STATED",
-    "security_rewards": "NOT STATED"
-  },
-  {
-    "domain": "zamilac.com",
-    "contact_emails": [
-      "halawallah@zamilac.com"
-    ],
-    "email_count": 1,
+    "email_count": 3,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
@@ -6565,12 +3615,10 @@
   {
     "domain": "zyft.com",
     "contact_emails": [
-      "affiliates@zyft.com",
       "info@zyft.com",
-      "marketing@zyft.com",
       "partnerships@zyft.com"
     ],
-    "email_count": 4,
+    "email_count": 2,
     "security_program": "none",
     "security_contact": "NOT STATED",
     "security_platform": "NOT STATED",
