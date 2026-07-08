@@ -1,0 +1,6741 @@
+[
+  {
+    "domain": "1-commerce.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "1688.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "1984.vc",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "1fit.app",
+    "email": "support@1fit.app",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@1fit.app"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "a-leads.co",
+    "email": "e.voss@northwindlabs.io",
+    "email_type": "e.voss",
+    "original_email_count": 4,
+    "all_emails": [
+      "e.voss@northwindlabs.io",
+      "j.webb@slateanalytics.com",
+      "m.chen@cedarsystems.co",
+      "p.shah@bluepeak.inc"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "abda.ai",
+    "email": "info@abda.ai",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "careers@abda.ai",
+      "info@abda.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "abenex.com",
+    "email": "contact@abenex.com",
+    "email_type": "contact",
+    "original_email_count": 2,
+    "all_emails": [
+      "contact@abenex.com",
+      "recruitment@abenex.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "academypl.us",
+    "email": "david@studentacademyplus.com",
+    "email_type": "david",
+    "original_email_count": 3,
+    "all_emails": [
+      "david@studentacademyplus.com",
+      "ian@be-a.co.uk",
+      "paul@academypl.us"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "acctual.com",
+    "email": "billing@charm.ai",
+    "email_type": "billing",
+    "original_email_count": 4,
+    "all_emails": [
+      "billing@charm.ai",
+      "billing@marble.studio",
+      "payables@acctual.com",
+      "payments@adria.studio"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "act.security",
+    "email": "info@act.security",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@act.security"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "actioneer.com",
+    "email": "connect@actioneer.com",
+    "email_type": "connect",
+    "original_email_count": 1,
+    "all_emails": [
+      "connect@actioneer.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "actirise.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "addcomposites.com",
+    "email": "info@addcomposites.com",
+    "email_type": "info",
+    "original_email_count": 3,
+    "all_emails": [
+      "info@addcomposites.com",
+      "james.kuligoski@addcomposites.com",
+      "pravin.luthada@addcomposites.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "adenasoft.com",
+    "email": "info@adenasoft.com",
+    "email_type": "info",
+    "original_email_count": 3,
+    "all_emails": [
+      "admin@adenasoft.com",
+      "forex@adenasoft.com",
+      "info@adenasoft.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "adgeeks.ge",
+    "email": "info@adgeeks.ge",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@adgeeks.ge"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "admiral.digital",
+    "email": "hello@admiral.digital",
+    "email_type": "hello",
+    "original_email_count": 5,
+    "all_emails": [
+      "belgium@admiral.digital",
+      "hello@admiral.digital",
+      "malaysia@admiral.digital",
+      "newzealand@admiral.digital",
+      "singapore@admiral.digital"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "adntro.com",
+    "email": "hello@adntro.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@adntro.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "adomos.com",
+    "email": "accueil@adomos.com",
+    "email_type": "accueil",
+    "original_email_count": 1,
+    "all_emails": [
+      "accueil@adomos.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "adventures.is",
+    "email": "marketing@adventures.is",
+    "email_type": "marketing",
+    "original_email_count": 2,
+    "all_emails": [
+      "marketing@adventures.is",
+      "pickup@adventures.is"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "agentphone.ai",
+    "email": "founders@agentphone.ai",
+    "email_type": "founders",
+    "original_email_count": 1,
+    "all_emails": [
+      "founders@agentphone.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "aimtell.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "airmason.com",
+    "email": "hello@airmason.com",
+    "email_type": "hello",
+    "original_email_count": 2,
+    "all_emails": [
+      "hello@airmason.com",
+      "tehsin@airmason.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "algominds.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "allcurrent.com",
+    "email": "sales@allcurrent.com",
+    "email_type": "sales",
+    "original_email_count": 1,
+    "all_emails": [
+      "sales@allcurrent.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "allphins.com",
+    "email": "contact@allphins.com",
+    "email_type": "contact",
+    "original_email_count": 2,
+    "all_emails": [
+      "Niamh@thomond.co.uk",
+      "contact@allphins.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "allsolutions.nl",
+    "email": "info@allsolutions.nl",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@allsolutions.nl",
+      "sales@allsolutions.nl"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "alner.id",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "alphacast.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "altura.io",
+    "email": "info@altura.io",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@altura.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ambition.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "amcouncil.com.au",
+    "email": "info@amcouncil.com.au",
+    "email_type": "info",
+    "original_email_count": 7,
+    "all_emails": [
+      "Andrew.Sarah@amcouncil.com.au",
+      "Dylan.Buckley@amcouncil.com.au",
+      "James.Stevenson@amcouncil.com.auDarwin",
+      "clint.mcdonald@amcouncil.com.au",
+      "gopinath.chattopadhyay@amcouncil.com.auHobart",
+      "info@amcouncil.com.au",
+      "toby.horstead@amcouncil.com.auMaintenance"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "amp.ai",
+    "email": "support@amp.ai",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "support@amp.ai",
+      "support@ampfit.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "anakin.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "announcekit.app",
+    "email": "support@announcekit.app",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@announcekit.app"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "apanshin.ru",
+    "email": "sales@apanshin.ru",
+    "email_type": "sales",
+    "original_email_count": 6,
+    "all_emails": [
+      "control@apanshin.ru",
+      "director@apanshin.ru",
+      "hr@apanshin.ru",
+      "manager@apanshin.ru",
+      "office@apanshin.ru",
+      "sales@apanshin.ru"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "appbooster.com",
+    "email": "hello@appbooster.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@appbooster.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "appfolio.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "appworkco.com",
+    "email": "support@appworkco.com",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "press@appworkco.com",
+      "sales@appworkco.com",
+      "support@appworkco.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "aption.com",
+    "email": "contact@aption.com",
+    "email_type": "contact",
+    "original_email_count": 5,
+    "all_emails": [
+      "aaron@Aption.fund",
+      "alon@Aption.fund",
+      "avi@Aption.fund",
+      "contact@aption.com",
+      "lev@Aption.fund"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "apu.edu",
+    "email": "admissions@apu.edu",
+    "email_type": "admissions",
+    "original_email_count": 9,
+    "all_emails": [
+      "admissions@apu.edu",
+      "advancement@apu.edu",
+      "alumni@apu.edu",
+      "athletics@apu.edu",
+      "campusstore@apu.edu",
+      "csafety@apu.edu",
+      "eventservices@apu.edu",
+      "humanresources@apu.edu",
+      "ssc@apu.edu"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "arcads.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "arcate.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "arch2order.com",
+    "email": "hello@arch2order.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@arch2order.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ardoq.com",
+    "email": "marketing@ardoq.com",
+    "email_type": "marketing",
+    "original_email_count": 1,
+    "all_emails": [
+      "marketing@ardoq.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "arkoselabs.com",
+    "email": "press@arkoselabs.com",
+    "email_type": "press",
+    "original_email_count": 3,
+    "all_emails": [
+      "actir@arkoselabs.com",
+      "partners@arkoselabs.com",
+      "press@arkoselabs.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "askattest.com",
+    "email": "press@askattest.com",
+    "email_type": "press",
+    "original_email_count": 1,
+    "all_emails": [
+      "press@askattest.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "asora.com",
+    "email": "info@asora.com",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "careers@asora.com",
+      "info@asora.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "assetlab.ca",
+    "email": "contact@assetlab.ca",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@assetlab.ca"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "atgfw.com",
+    "email": "info@atgfw.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@atgfw.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "autocio.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "autods.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "axi.com",
+    "email": "success@axi.com",
+    "email_type": "success",
+    "original_email_count": 1,
+    "all_emails": [
+      "success@axi.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "b2.solutions",
+    "email": "contato@b2.solutions",
+    "email_type": "contato",
+    "original_email_count": 2,
+    "all_emails": [
+      "contato@b2.solutions",
+      "contato@b2card.com.br"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "b4a.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "bacto.bio",
+    "email": "info@bacto.bio",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@bacto.bio"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "banffadvisors.com",
+    "email": "contact@banffadvisors.com",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@banffadvisors.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "batchdata.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "bedthreads.com.au",
+    "email": "hello@bedthreads.com.au",
+    "email_type": "hello",
+    "original_email_count": 2,
+    "all_emails": [
+      "hello@bedthreads.com.au",
+      "trade@bedthreads.com.au"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "belform.de",
+    "email": "info@belform.de",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "careers@belform.de",
+      "info@belform.de"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "bhhc.com",
+    "email": "billing@bhhomestate.com",
+    "email_type": "billing",
+    "original_email_count": 13,
+    "all_emails": [
+      "PCClientServices@bhhomestate.com",
+      "auto@bhhomestate.com",
+      "bhhcclaim@bhhomestate.com",
+      "bhservices@bhhomestate.com",
+      "billing@bhhomestate.com",
+      "clientservicesclaims@bhhomestate.com",
+      "customercare@bhhc.com",
+      "documentmanagement@bhhc.com",
+      "marketing-wc@bhhc.com",
+      "newclaim@bhhc.com",
+      "pcmarketing@bhhc.com",
+      "property@bhhomestate.com",
+      "webmaster@bhhc.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "billclap.com",
+    "email": "support@billclap.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "help@billclap.com",
+      "support@billclap.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "billionverify.com",
+    "email": "support@billionverify.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "partners@billionverify.com",
+      "support@billionverify.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "biobureau.com.br",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "blast.security",
+    "email": "careers@blast.security",
+    "email_type": "careers",
+    "original_email_count": 1,
+    "all_emails": [
+      "careers@blast.security"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "blindpay.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "blinq.me",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "blockchain0x.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "blueshoe.com",
+    "email": "support@blueshoe.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@blueshoe.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "bmsgroup.com.br",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "bold.security",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "boltz.bio",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "bradsdeals.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "brain.fi",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "brighttangerine.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "bsteuern.com",
+    "email": "info@stbk-berlin.de",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "hello@bsteuern.com",
+      "info@stbk-berlin.de"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "buddy.works",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "buildwithtrace.com",
+    "email": "hello@buildwithtrace.com",
+    "email_type": "hello",
+    "original_email_count": 4,
+    "all_emails": [
+      "ayo@buildwithtrace.com",
+      "hello@buildwithtrace.com",
+      "jeff@buildwithtrace.com",
+      "olu@buildwithtrace.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "bundledocs.com",
+    "email": "support@bundledocs.com",
+    "email_type": "support",
+    "original_email_count": 7,
+    "all_emails": [
+      "apac.support@bundledocs.com",
+      "careers@bundledocs.com",
+      "compliance@bundledocs.com",
+      "info@bundledocs.com",
+      "lisa@bundledocs.com",
+      "sales@bundledocs.com",
+      "support@bundledocs.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "burbio.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "buymeacoffee.com",
+    "email": "support@buymeacoffee.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@buymeacoffee.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "bythen.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "callgrid.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "canix.com",
+    "email": "hi@canix.com",
+    "email_type": "hi",
+    "original_email_count": 1,
+    "all_emails": [
+      "hi@canix.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "capcade.com",
+    "email": "sales@capcade.com",
+    "email_type": "sales",
+    "original_email_count": 1,
+    "all_emails": [
+      "sales@capcade.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "capta.co",
+    "email": "info@capta.co",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@capta.co"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "causematch.com",
+    "email": "support@causematch.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "hello@causematch.com",
+      "support@causematch.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ccmchase.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cdsgroupe.com",
+    "email": "metheve@cdsgroupe.com",
+    "email_type": "metheve",
+    "original_email_count": 3,
+    "all_emails": [
+      "metheve@cdsgroupe.com",
+      "rxerri@cdsgroupe.com",
+      "rxerri@sforbt.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cfstinson.com",
+    "email": "customerservice@anzea.com",
+    "email_type": "customerservice",
+    "original_email_count": 6,
+    "all_emails": [
+      "customerservice@anzea.com",
+      "customerservice@cfstinson.com",
+      "inquiries@arc-com.com",
+      "orders@arc-com.com",
+      "orders@cfstinson.com",
+      "samples@cfstinson.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "chargeback.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "charthop.com",
+    "email": "support@charthop.com",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "people-team@charthop.com",
+      "press@charthop.com",
+      "support@charthop.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "checkout.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "chidoanh.com",
+    "email": "info@chidoanh.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@chidoanh.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "chroniclehq.com",
+    "email": "partners@chroniclehq.com",
+    "email_type": "partners",
+    "original_email_count": 1,
+    "all_emails": [
+      "partners@chroniclehq.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "chyeon.com",
+    "email": "contact@chyeon.com",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@chyeon.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "circuitry.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "citsolutions.net",
+    "email": "support@citsolutions.net",
+    "email_type": "support",
+    "original_email_count": 4,
+    "all_emails": [
+      "info@citsolutions.net",
+      "sales@citsolutions.net",
+      "success@citsolutions.net",
+      "support@citsolutions.net"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "civicmarketplace.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cixon.de",
+    "email": "mail@cixon.de",
+    "email_type": "mail",
+    "original_email_count": 1,
+    "all_emails": [
+      "mail@cixon.de"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "classfit.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "clearesult.com",
+    "email": "media@clearesult.com",
+    "email_type": "media",
+    "original_email_count": 2,
+    "all_emails": [
+      "media@clearesult.com",
+      "supplierdiversity@clearesult.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "clearpointstrategy.com",
+    "email": "info@clearpointstrategy.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@clearpointstrategy.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "clouddrove.com",
+    "email": "hello@clouddrove.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@clouddrove.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cloverly.com",
+    "email": "support@cloverly.com",
+    "email_type": "support",
+    "original_email_count": 6,
+    "all_emails": [
+      "hello@cloverly.com",
+      "josh@cloverly.com",
+      "kimberly@ceezer.earth",
+      "sales@cloverly.com",
+      "suppliers@cloverly.com",
+      "support@cloverly.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cobratate.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cognifit.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "collection.com.br",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "commoninja.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "compelling.ai",
+    "email": "support@compelling.ai",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@compelling.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "comundo.io",
+    "email": "support@comundo.io",
+    "email_type": "support",
+    "original_email_count": 4,
+    "all_emails": [
+      "annemiek@comundo.io",
+      "danskebank@comundo.io",
+      "hello@comundo.io",
+      "support@comundo.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "contraktor.com.br",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "conversion.com.br",
+    "email": "comercial@conversion.com.br",
+    "email_type": "comercial",
+    "original_email_count": 1,
+    "all_emails": [
+      "comercial@conversion.com.br"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "copera.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "copilot.tax",
+    "email": "comercial@copilot.tax",
+    "email_type": "comercial",
+    "original_email_count": 2,
+    "all_emails": [
+      "comercial@copilot.tax",
+      "hola@copilot.tax"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "coraly.ai",
+    "email": "support@coraly.ai",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@coraly.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "coram.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "corvera.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "covel.cl",
+    "email": "contacto@covel.cl",
+    "email_type": "contacto",
+    "original_email_count": 1,
+    "all_emails": [
+      "contacto@covel.cl"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cpfcnpj.com.br",
+    "email": "contato@cpfcnpj.com.br",
+    "email_type": "contato",
+    "original_email_count": 1,
+    "all_emails": [
+      "contato@cpfcnpj.com.br"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cravit.nl",
+    "email": "office@cravit.nl",
+    "email_type": "office",
+    "original_email_count": 1,
+    "all_emails": [
+      "office@cravit.nl"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "creatio.ch",
+    "email": "info@creatio.ch",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@creatio.ch"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "creatorland.com",
+    "email": "support@creatorland.com",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "dealsync@creatorland.com",
+      "info@creatorland.com",
+      "support@creatorland.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "criterionrsch.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cuebiq.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cuttable.com",
+    "email": "support@cuttable.com",
+    "email_type": "support",
+    "original_email_count": 4,
+    "all_emails": [
+      "hello@cuttable.com",
+      "sales@cuttable.com",
+      "support@cuttable.com",
+      "team@cuttable.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cyberarmorsystems.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "cybermindr.com",
+    "email": "info@cybermindr.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@cybermindr.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dabbel.eu",
+    "email": "info@dabbel.eu",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@dabbel.eu"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "danielatombini.com.br",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "databend.com",
+    "email": "hi@databend.com",
+    "email_type": "hi",
+    "original_email_count": 1,
+    "all_emails": [
+      "hi@databend.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "datalastic.com",
+    "email": "support@datalastic.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@datalastic.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "deako.com",
+    "email": "support@deako.com",
+    "email_type": "support",
+    "original_email_count": 4,
+    "all_emails": [
+      "lightingconsultants@deako.com",
+      "press@deako.com",
+      "sales@deako.com",
+      "support@deako.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dealground.com",
+    "email": "info@dealground.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@dealground.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "deconcern.nl",
+    "email": "info@deconcern.nl",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@deconcern.nl"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "default.com",
+    "email": "albert@amplemarket.com",
+    "email_type": "albert",
+    "original_email_count": 8,
+    "all_emails": [
+      "albert@amplemarket.com",
+      "albert@figma.com",
+      "emma@airtable.com",
+      "emma@attio.com",
+      "james.smith@apollo.io",
+      "james.smith@notion.com",
+      "patricia.johnson@calendly.com",
+      "patricia@linkedin.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "defillama.com",
+    "email": "support@defillama.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@defillama.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "deltaforge.tech",
+    "email": "contactus@deltaforge.tech",
+    "email_type": "contactus",
+    "original_email_count": 1,
+    "all_emails": [
+      "contactus@deltaforge.tech"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dfactory.pro",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dhtech.com",
+    "email": "info@mysite.com",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@mysite.com",
+      "sales@dhtech.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "didit.me",
+    "email": "hello@didit.me",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@didit.me"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "digiteka.com",
+    "email": "info@digiteka.com",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@digiteka.com",
+      "videos@digiteka.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dimuto.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dnsolutions.com",
+    "email": "support@dnsolutions.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@dnsolutions.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "docue.com",
+    "email": "support@docue.com",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "hannah@docue.com",
+      "heather@docue.com",
+      "support@docue.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dowgo.com",
+    "email": "contact@dowgo.com",
+    "email_type": "contact",
+    "original_email_count": 2,
+    "all_emails": [
+      "contact@dowgo.com",
+      "dpo@dowgo.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dreambound.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dreamsetgo.com",
+    "email": "contactus@dreamsetgo.com",
+    "email_type": "contactus",
+    "original_email_count": 2,
+    "all_emails": [
+      "careers@dreamsetgo.com",
+      "contactus@dreamsetgo.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dripshop.live",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "drivepoint.ai",
+    "email": "info@drivepoint.io",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@drivepoint.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "drmgroup.com",
+    "email": "info-cn@drmgroup.com",
+    "email_type": "info-cn",
+    "original_email_count": 36,
+    "all_emails": [
+      "cromano@oscarentin.com",
+      "daves@bradtco.com",
+      "egidio.naso@pepag.eu",
+      "franco.tavani@gstsas.com",
+      "gb@gbldrm.com",
+      "goled@goled.hr",
+      "gsmaravilla@pure-chem.com.ph",
+      "hacohens@zahav.net.il",
+      "info-cn@drmgroup.com",
+      "info-in@drmgroup.com",
+      "info-my@drmgroup.com",
+      "info-pl@drmgroup.com",
+      "info-us@drmgroup.com",
+      "info@ditap.fi",
+      "info@drmgroup.com",
+      "info@filtration.be",
+      "info@gtcegypt.net",
+      "knut-erik@haakonlarsen.com",
+      "kwnam@drmkorea.com",
+      "labtec@rdslink.ro",
+      "m.rinju@petronagulf.com",
+      "martin.pfeiffer@drmgroup.com",
+      "miguel.sanchez@jet-ps.com",
+      "nattawut@pts-thai.com",
+      "office.hu@ferrygrp.com",
+      "patel.sailesh1@icloud.com",
+      "paulo@stellaviegas.com.br",
+      "pbelcarz@vision-solutions.ca",
+      "pge@ige.es",
+      "poltak@ingenious.co.id",
+      "racki.cezary@drmgroup.com",
+      "roland.carlberg@rcprocess.se",
+      "sales@kslteknik.com",
+      "shomail.gmp@gmail.com",
+      "tecprol@tecprol.cl",
+      "winsen@jcmt.com.tw"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dropi.co",
+    "email": "soporte.dropi@dropi.co",
+    "email_type": "soporte.dropi",
+    "original_email_count": 1,
+    "all_emails": [
+      "soporte.dropi@dropi.co"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dumfriesva.gov",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "dutyfreedynamics.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ebhoom.com",
+    "email": "info@ebhoom.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@ebhoom.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ebu.ch",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "edrone.me",
+    "email": "hello@edrone.me",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@edrone.me"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "efuneral.com",
+    "email": "help@efuneral.com",
+    "email_type": "help",
+    "original_email_count": 2,
+    "all_emails": [
+      "help@efuneral.com",
+      "partner@efuneral.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "eightx.co",
+    "email": "contact@eightx.co",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@eightx.co"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "elements.tv",
+    "email": "info@elements.tv",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@elements.tv",
+      "us-sales@elements.tv"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "elevatusit.com",
+    "email": "sales@elevatusit.com",
+    "email_type": "sales",
+    "original_email_count": 1,
+    "all_emails": [
+      "sales@elevatusit.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "emaillove.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "emergent.sh",
+    "email": "support@emergent.sh",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "privacy@emergent.sh",
+      "support@emergent.sh"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "empowerbh.com",
+    "email": "info@empowerbh.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@empowerbh.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "encord.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "enpass.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "erpswiss.com",
+    "email": "info@erpswiss.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@erpswiss.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "esub.com",
+    "email": "contact@esub.com",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@esub.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "eventora.com",
+    "email": "support@eventora.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "privacy@eventora.com",
+      "support@eventora.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "eventrise.com",
+    "email": "support@eventrise.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@eventrise.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "eveoy.com",
+    "email": "support@eveoy.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "sales@eveoy.com",
+      "support@eveoy.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "everstage.com",
+    "email": "support@everstage.com",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "care@everstage.com",
+      "press@everstage.com",
+      "support@everstage.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "evoluaenergia.com.br",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "exa22.com",
+    "email": "support@exa22.com",
+    "email_type": "support",
+    "original_email_count": 4,
+    "all_emails": [
+      "career@exa22.com",
+      "info@exa22.com",
+      "sales@exa22.com",
+      "support@exa22.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "expedite.now",
+    "email": "support@expedite.now",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@expedite.now"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "expertpartners.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "extole.com",
+    "email": "support@extole.com",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "hello@extole.com",
+      "pr@extole.com",
+      "support@extole.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "eyequant.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ezeep.com",
+    "email": "info@thinprint.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@thinprint.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "factors.ai",
+    "email": "sales@factors.ai",
+    "email_type": "sales",
+    "original_email_count": 1,
+    "all_emails": [
+      "sales@factors.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "factum.law",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "fanvue.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "faraday.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "finaloop.com",
+    "email": "support@finaloop.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "hello@finaloop.com",
+      "support@finaloop.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "finalto.com",
+    "email": "Sales@finalto.com",
+    "email_type": "sales",
+    "original_email_count": 4,
+    "all_emails": [
+      "Marketing@finalto.com",
+      "Sales@finalto.com",
+      "marketing@finalto.com",
+      "privacy@finalto.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "finbaze.com",
+    "email": "info@finbaze.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@finbaze.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "finhay.com.vn",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "firecrawl.dev",
+    "email": "help@firecrawl.com",
+    "email_type": "help",
+    "original_email_count": 1,
+    "all_emails": [
+      "help@firecrawl.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "firstround.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "flagsmith.com",
+    "email": "info@flagsmith.com",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "delboy@trotterstraders.co.uk",
+      "info@flagsmith.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "flair.co",
+    "email": "support@flair.co",
+    "email_type": "support",
+    "original_email_count": 5,
+    "all_emails": [
+      "careers@flair.co",
+      "media@flair.co",
+      "pros@flair.co",
+      "sales@flair.co",
+      "support@flair.co"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "flameanalytics.com",
+    "email": "hello@flameanalytics.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@flameanalytics.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "floqer.com",
+    "email": "hello@floqer.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@floqer.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "flowaccount.com",
+    "email": "support@flowaccount.com",
+    "email_type": "support",
+    "original_email_count": 5,
+    "all_emails": [
+      "billing@flowaccount.com",
+      "demo@flowaccount.com",
+      "event@flowaccount.com",
+      "partner@flowaccount.com",
+      "support@flowaccount.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "folk.app",
+    "email": "folks@folk.app",
+    "email_type": "folks",
+    "original_email_count": 1,
+    "all_emails": [
+      "folks@folk.app"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "folloze.com",
+    "email": "support@folloze.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@folloze.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "fore.dev",
+    "email": "elin@for.dev.se",
+    "email_type": "elin",
+    "original_email_count": 5,
+    "all_emails": [
+      "elin@for.dev.se",
+      "elin@fore.dev",
+      "gosta@fore.dev",
+      "kundservice@varbergenergi.se",
+      "martin@fore.dev"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "forio.com",
+    "email": "sales@forio.com",
+    "email_type": "sales",
+    "original_email_count": 2,
+    "all_emails": [
+      "jobs@forio.com",
+      "sales@forio.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "formedideas.com",
+    "email": "support@formedideas.com",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "joel@formedideas.com",
+      "support@formedideas.com",
+      "william@formedideas.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "foundernest.com",
+    "email": "customersuccess@foundernest.com",
+    "email_type": "customersuccess",
+    "original_email_count": 3,
+    "all_emails": [
+      "customersuccess@foundernest.com",
+      "enquiries@foundernest.com",
+      "marketing@foundernest.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "frontierdirect.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "fullcodemedical.com",
+    "email": "support@fullcodemedical.com",
+    "email_type": "support",
+    "original_email_count": 4,
+    "all_emails": [
+      "clinicalteam@fullcodemedical.com",
+      "sales@fullcodedev.wpengine.com",
+      "sales@fullcodemedical.com",
+      "support@fullcodemedical.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "fundin.ai",
+    "email": "info@fundin.ai",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@fundin.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "fusionspan.com",
+    "email": "info@fusionSpan.com",
+    "email_type": "info",
+    "original_email_count": 3,
+    "all_emails": [
+      "hr-india@fusionspan.com",
+      "info@fusionSpan.com",
+      "info@fusionspan.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "gabster.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "genvid.com",
+    "email": "support@genvid.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "press@genvid.com",
+      "support@genvid.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "genzdealz.ai",
+    "email": "akshay@GenZDealZ.ai",
+    "email_type": "akshay",
+    "original_email_count": 3,
+    "all_emails": [
+      "akshay@GenZDealZ.ai",
+      "yo@GenZDealZ.ai",
+      "yo@genzdealz.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "geogenie.ai",
+    "email": "sales@geogenie.ai",
+    "email_type": "sales",
+    "original_email_count": 1,
+    "all_emails": [
+      "sales@geogenie.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "getaccept.com",
+    "email": "support@getaccept.com",
+    "email_type": "support",
+    "original_email_count": 5,
+    "all_emails": [
+      "finance@getaccept.com",
+      "hello@getaccept.com",
+      "jobs@getaccept.com",
+      "marketing@getaccept.com",
+      "support@getaccept.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "getbuddi.ai",
+    "email": "hello@getbuddi.ai",
+    "email_type": "hello",
+    "original_email_count": 2,
+    "all_emails": [
+      "hello@getbuddi.ai",
+      "lock-in@getbuddi.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "getdeck.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "getnylo.com",
+    "email": "contact@getnylo.com",
+    "email_type": "contact",
+    "original_email_count": 2,
+    "all_emails": [
+      "contact@getnylo.com",
+      "hello@getnylo.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "getridley.com",
+    "email": "hi@getridley.com",
+    "email_type": "hi",
+    "original_email_count": 1,
+    "all_emails": [
+      "hi@getridley.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "getscalability.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "gimmefylabs.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "giscloud.com",
+    "email": "sales@giscloud.com",
+    "email_type": "sales",
+    "original_email_count": 1,
+    "all_emails": [
+      "sales@giscloud.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "gitguardian.com",
+    "email": "support@gitguardian.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "marketing@gitguardian.com",
+      "support@gitguardian.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "givebutter.com",
+    "email": "support@givebutter.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "press@givebutter.com",
+      "support@givebutter.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "gladium.ai",
+    "email": "paolo@gladium.ai",
+    "email_type": "paolo",
+    "original_email_count": 1,
+    "all_emails": [
+      "paolo@gladium.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "glam.ai",
+    "email": "supportdesktop@glamlabs.app",
+    "email_type": "supportdesktop",
+    "original_email_count": 1,
+    "all_emails": [
+      "supportdesktop@glamlabs.app"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "globaldata.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "gns-cpas.com",
+    "email": "info@gns-cpas.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@gns-cpas.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "gohubsteel.com",
+    "email": "jobs@gohubsteel.com",
+    "email_type": "jobs",
+    "original_email_count": 2,
+    "all_emails": [
+      "estimating@gohubsteel.com",
+      "jobs@gohubsteel.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "golinks.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "goodlawyer.ca",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "govspend.com",
+    "email": "support@govspend.com",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "media@govspend.com",
+      "recruiting@govspend.com",
+      "support@govspend.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "graas.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "graneet.fr",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "greenbridge.ai",
+    "email": "contact@greenbridge.ai",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@greenbridge.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "gridlex.com",
+    "email": "hr@gridlex.com",
+    "email_type": "hr",
+    "original_email_count": 2,
+    "all_emails": [
+      "apps@gridlex.com",
+      "hr@gridlex.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "grin.co",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "growth99.com",
+    "email": "support@growth99.com",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "accounting@growth99.com",
+      "sales@growth99.com",
+      "support@growth99.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "grupodecio.com.br",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "grydd.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "guides.co",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "hacktron.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "hawky.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "helfinch.com",
+    "email": "support@helfinch.com",
+    "email_type": "support",
+    "original_email_count": 6,
+    "all_emails": [
+      "care@eshopbox.com",
+      "csr@helfinch.com",
+      "media@helfinch.com",
+      "orders@helfinch.com",
+      "support@helfinch.com",
+      "warranty@helfinch.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "heymilo.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "heynox.com",
+    "email": "team@heynox.com",
+    "email_type": "team",
+    "original_email_count": 1,
+    "all_emails": [
+      "team@heynox.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "hightideinc.com",
+    "email": "info@hightideinc.com",
+    "email_type": "info",
+    "original_email_count": 3,
+    "all_emails": [
+      "cbrownlee@hightideinc.com",
+      "info@hightideinc.com",
+      "ir@hightideinc.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "higoodie.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "hirequotient.com",
+    "email": "info@hirequotient.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@hirequotient.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "histellar.com",
+    "email": "connect@hiStellar.com",
+    "email_type": "connect",
+    "original_email_count": 2,
+    "all_emails": [
+      "connect@hiStellar.com",
+      "connect@histellar.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "holded.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "holdprint.net",
+    "email": "holdprint@holdprint.net",
+    "email_type": "holdprint",
+    "original_email_count": 1,
+    "all_emails": [
+      "holdprint@holdprint.net"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "homerunner.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "honasa.in",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "honcho.com.au",
+    "email": "support@honcho.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "media@honcho.com",
+      "support@honcho.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "hotstuff.trade",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "humanagement.io",
+    "email": "support@humanagement.io",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@humanagement.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "hunguesthotels.hu",
+    "email": "hotel@andrassykuria.hu",
+    "email_type": "hotel",
+    "original_email_count": 3,
+    "all_emails": [
+      "hotel@andrassykuria.hu",
+      "hotelapollo@hunguesthotels.hu",
+      "torzsvendegcentrum@hunguesthotels.hu"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "hy.digital",
+    "email": "hello@hy-digital.com",
+    "email_type": "hello",
+    "original_email_count": 2,
+    "all_emails": [
+      "client@hy-digital.com",
+      "hello@hy-digital.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "hyprmx.com",
+    "email": "info@hyprmx.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@hyprmx.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "hyre.io",
+    "email": "hello@hyre.ai",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@hyre.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "hyundaifuturenet.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ibanfirst.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ifthen.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "immedio.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "immocloud.de",
+    "email": "support@immocloud.de",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "info@immocloud.de",
+      "marketing@immocloud.de",
+      "support@immocloud.de"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "implisense.com",
+    "email": "info@implisense.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@implisense.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "impossible.io",
+    "email": "hello-eu@impossible.io",
+    "email_type": "hello-eu",
+    "original_email_count": 3,
+    "all_emails": [
+      "hello-eu@impossible.io",
+      "hello-us@impossible.io",
+      "hello@impossible.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "incapto.com",
+    "email": "hello@incapto.com",
+    "email_type": "hello",
+    "original_email_count": 2,
+    "all_emails": [
+      "hello@incapto.com",
+      "professional@incapto.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "industrialinfo.com",
+    "email": "info@industrialinfo.eu",
+    "email_type": "info",
+    "original_email_count": 10,
+    "all_emails": [
+      "australia@industrialinfo.com",
+      "customerservice@industrialinfo.com",
+      "dubai@industrialinfo.com",
+      "iirteam@iirenergy.com",
+      "india@industrialinfo.com",
+      "info@industrialinfo.eu",
+      "japan@industrialinfo.com",
+      "korea@industrialinfo.com",
+      "manila@industrialinfo.com",
+      "ventas@industrialinfo.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "inflearn.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "influencer.in",
+    "email": "Enquiry@influencer.in",
+    "email_type": "enquiry",
+    "original_email_count": 2,
+    "all_emails": [
+      "Enquiry@influencer.in",
+      "enquiry@influencer.in"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "infolegale.fr",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ingeno.ca",
+    "email": "info@ingeno.ca",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@ingeno.ca"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "innovecs.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "insportline.cz",
+    "email": "obchod.brno@insportline.cz",
+    "email_type": "obchod.brno",
+    "original_email_count": 4,
+    "all_emails": [
+      "obchod.brno@insportline.cz",
+      "obchod.ostrava@insportline.cz",
+      "obchod.praha10@insportline.cz",
+      "obchod.vitkov@insportline.cz"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "institutomix.com.br",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "intelas.com",
+    "email": "contact@intelas.com",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@intelas.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "interceptgroup.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "interfacefinancial.com",
+    "email": "info@interfacefinancial.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@interfacefinancial.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "investorlift.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "invoicexpress.com",
+    "email": "support@invoicexpress.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@invoicexpress.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "jamloop.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "jaz.ai",
+    "email": "john@acme.com",
+    "email_type": "john",
+    "original_email_count": 1,
+    "all_emails": [
+      "john@acme.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "jelou.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "jiminny.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "jobin.cloud",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "jordigarcia.es",
+    "email": "info@libertas.capital",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@libertas.capital"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "jtkmarketing.com",
+    "email": "info@jtkmarketing.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@jtkmarketing.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "juma.ai",
+    "email": "humans@juma.ai",
+    "email_type": "humans",
+    "original_email_count": 1,
+    "all_emails": [
+      "humans@juma.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "k9security.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "kanna4u.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "kease.io",
+    "email": "reservations@kease.io",
+    "email_type": "reservations",
+    "original_email_count": 1,
+    "all_emails": [
+      "reservations@kease.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "kenai.app",
+    "email": "info@kenai.co.za",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "careers@kenai.co.za",
+      "info@kenai.co.za"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "khatoco.com",
+    "email": "info@khatoco.vn",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@khatoco.vn"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "kilde.sg",
+    "email": "sales@kilde.sg",
+    "email_type": "sales",
+    "original_email_count": 4,
+    "all_emails": [
+      "hatadi@kilde.sg",
+      "johanna@kilde.sg",
+      "media@kilde.sg",
+      "sales@kilde.sg"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "klealegal.com",
+    "email": "info@klealegal.com",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@klealegal.com",
+      "privacy@quantios.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "knips.com",
+    "email": "hey@knips.com",
+    "email_type": "hey",
+    "original_email_count": 1,
+    "all_emails": [
+      "hey@knips.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "knoxed.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "kobbr.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "komodor.com",
+    "email": "support@komodor.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "gtmteam@komodor.com",
+      "support@komodor.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "korl.co",
+    "email": "support@korl.ai",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@korl.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "kotlinlang.org",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "lastcallanalytics.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "latitude.sh",
+    "email": "sales@latitude.sh",
+    "email_type": "sales",
+    "original_email_count": 2,
+    "all_emails": [
+      "legal@latitude.sh",
+      "sales@latitude.sh"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "lawcyborg.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "laylinetech.com",
+    "email": "office@laylinetech.com",
+    "email_type": "office",
+    "original_email_count": 1,
+    "all_emails": [
+      "office@laylinetech.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "leadiq.com",
+    "email": "support@leadiq.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "sales@leadiq.com",
+      "support@leadiq.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "leadrat.com",
+    "email": "support@leadrat.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "hr@leadrat.com",
+      "support@leadrat.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "leandata.com",
+    "email": "contact@leandata.com",
+    "email_type": "contact",
+    "original_email_count": 3,
+    "all_emails": [
+      "contact@leandata.com",
+      "media@leandata.com",
+      "partners@leandata.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "leasecalcs.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ledsone.co.uk",
+    "email": "info@ledsone.nl",
+    "email_type": "info",
+    "original_email_count": 5,
+    "all_emails": [
+      "admin@ledsone.de",
+      "admin@ledsone.fr",
+      "info@ledsone.nl",
+      "info@ledsone.us",
+      "sales@ledsone.co.uk"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "leftbrain.io",
+    "email": "help@leftbrain.io",
+    "email_type": "help",
+    "original_email_count": 2,
+    "all_emails": [
+      "help@leftbrain.io",
+      "hi@leftbrain.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "legalboards.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "lendingspot.net",
+    "email": "info@lendingspot.net",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@lendingspot.net"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "letstok.com",
+    "email": "contact@letstok.com",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@letstok.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "lettrlabs.com",
+    "email": "info@LettrLabs.com",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@LettrLabs.com",
+      "info@lettrlabs.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "lezzoo.com",
+    "email": "info@lezzoo.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@lezzoo.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "libris.ro",
+    "email": "contact@libris.ro",
+    "email_type": "contact",
+    "original_email_count": 2,
+    "all_emails": [
+      "contact@libris.ro",
+      "vanzari@libris.ro"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "lifesight.io",
+    "email": "support@lifesight.io",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "recruitment@lifesight.io",
+      "sales@lifesight.io",
+      "support@lifesight.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "lightbringer.com",
+    "email": "hello@lightbringer.com",
+    "email_type": "hello",
+    "original_email_count": 2,
+    "all_emails": [
+      "hello@lightbringer.com",
+      "hello@lightbringer.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "linguado.com",
+    "email": "support@linguado.com",
+    "email_type": "support",
+    "original_email_count": 4,
+    "all_emails": [
+      "invest@linguado.com",
+      "jobs@linguado.com",
+      "marketing@linguado.com",
+      "support@linguado.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "logestechs.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "londonserenity.com",
+    "email": "careers@londonserenity.com",
+    "email_type": "careers",
+    "original_email_count": 2,
+    "all_emails": [
+      "bookings@londonserenity.com",
+      "careers@londonserenity.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "losant.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "lottiefiles.com",
+    "email": "press@lottiefiles.com",
+    "email_type": "press",
+    "original_email_count": 1,
+    "all_emails": [
+      "press@lottiefiles.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "lotto-niedersachsen.de",
+    "email": "info@lotto-niedersachsen.de",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@lotto-niedersachsen.de",
+      "spielerschutz@lotto-niedersachsen.de"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ls2.io",
+    "email": "info@ls2.io",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@ls2.io",
+      "partners@ls2.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "lst.team",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "luxresearchinc.com",
+    "email": "press@luxresearchinc.com",
+    "email_type": "press",
+    "original_email_count": 1,
+    "all_emails": [
+      "press@luxresearchinc.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "luxurypresence.com",
+    "email": "hello@luxurypresence.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@luxurypresence.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "madisonai.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "magazord.com.br",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "magpieiq.com",
+    "email": "sales@magpieiq.com",
+    "email_type": "sales",
+    "original_email_count": 2,
+    "all_emails": [
+      "sales@magpieiq.com",
+      "wilhendra@magpieiq.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mailerfind.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mailsuite.com",
+    "email": "privacy@mailsuite.com",
+    "email_type": "privacy",
+    "original_email_count": 2,
+    "all_emails": [
+      "pr@mailsuite.com",
+      "privacy@mailsuite.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mainframe.app",
+    "email": "help@mainframe.app",
+    "email_type": "help",
+    "original_email_count": 1,
+    "all_emails": [
+      "help@mainframe.app"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "makea.co",
+    "email": "support@makea.co",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@makea.co"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "makersights.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "malou.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mancommx.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mandaprofinanceiro.com",
+    "email": "financeiro@suaempresa.com",
+    "email_type": "financeiro",
+    "original_email_count": 2,
+    "all_emails": [
+      "contato@mandaprofinanceiro.com",
+      "financeiro@suaempresa.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "maple.com",
+    "email": "support@maple.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@maple.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "marketingminer.com",
+    "email": "info@marketingminer.com",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@marketingminer.com",
+      "tomas@marketingminer.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "marketlogicsoftware.com",
+    "email": "info@marketlogicsoftware.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@marketlogicsoftware.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mastheadata.com",
+    "email": "team@mastheadata.com",
+    "email_type": "team",
+    "original_email_count": 1,
+    "all_emails": [
+      "team@mastheadata.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mcleodsoftware.com",
+    "email": "Sales@McLeodSoftware.com",
+    "email_type": "sales",
+    "original_email_count": 2,
+    "all_emails": [
+      "Reception@McLeodSoftware.com",
+      "Sales@McLeodSoftware.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mclogs.com",
+    "email": "sales@mclogs.com",
+    "email_type": "sales",
+    "original_email_count": 1,
+    "all_emails": [
+      "sales@mclogs.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "meethero.ai",
+    "email": "contact@vivun.com",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@vivun.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "meetleo.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "melba.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "melius.com",
+    "email": "careers@melius.com",
+    "email_type": "careers",
+    "original_email_count": 1,
+    "all_emails": [
+      "careers@melius.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "memories.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mergr.com",
+    "email": "support@mergr.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "deals@mergr.com",
+      "support@mergr.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "merrittadvisory.com",
+    "email": "contactus@merrittadvisory.com",
+    "email_type": "contactus",
+    "original_email_count": 2,
+    "all_emails": [
+      "contactus@merrittadvisory.com",
+      "info@merrittadvisory.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "metergrid.de",
+    "email": "info@metergrid.de",
+    "email_type": "info",
+    "original_email_count": 3,
+    "all_emails": [
+      "info@metergrid.de",
+      "presse@metergrid.de",
+      "sales@metergrid.de"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mikfs.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "milenow.com",
+    "email": "connect@milenow.com",
+    "email_type": "connect",
+    "original_email_count": 1,
+    "all_emails": [
+      "connect@milenow.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "miracleplus.com",
+    "email": "support@miracleplus.com",
+    "email_type": "support",
+    "original_email_count": 4,
+    "all_emails": [
+      "contact@miracleplus.com",
+      "hr@mail.miracleplus.com",
+      "press@miracleplus.com",
+      "support@miracleplus.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mistywest.com",
+    "email": "contact@mistywest.com",
+    "email_type": "contact",
+    "original_email_count": 2,
+    "all_emails": [
+      "contact@mistywest.com",
+      "rookie@mistywest.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "modelmatch.com",
+    "email": "hello@modelmatch.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@modelmatch.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "modrek.ai",
+    "email": "Info@modrek.ai",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "Info@modrek.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mongodb.com",
+    "email": "joev@metasploit.com",
+    "email_type": "joev",
+    "original_email_count": 4,
+    "all_emails": [
+      "joev@metasploit.com",
+      "mitch@wassonlabs.com",
+      "vinci+hof@protonmail.ch",
+      "will.ashworth@pimberly.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "morepaymentevolution.com",
+    "email": "info@morepaymentevolution.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@morepaymentevolution.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "movingimage.my",
+    "email": "hello@movingimage.my",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@movingimage.my"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mprofit.in",
+    "email": "support@mprofit.in",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@mprofit.in"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mtc.co.uk",
+    "email": "info@mtc.co.uk",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@mtc.co.uk"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mycma.com",
+    "email": "info@mycma.com",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "applications@mycma.com",
+      "info@mycma.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "mynyfy.com",
+    "email": "support@mynyfy.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@mynyfy.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "myvert.com",
+    "email": "info@vertsports.com",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@vertsports.com",
+      "performance@myvert.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "nachonacho.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "nautipark.com",
+    "email": "commercial@nautipark.com",
+    "email_type": "commercial",
+    "original_email_count": 1,
+    "all_emails": [
+      "commercial@nautipark.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ncino.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "nell.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "netnut.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "nevermisshq.com",
+    "email": "career@nevermisshq.com",
+    "email_type": "career",
+    "original_email_count": 2,
+    "all_emails": [
+      "career@nevermisshq.com",
+      "rayhanmahmood@nevermisshq.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "newprojectmedia.com",
+    "email": "help@newprojectmedia.com",
+    "email_type": "help",
+    "original_email_count": 4,
+    "all_emails": [
+      "brett.birman@newprojectmedia.com",
+      "careers@newprojectmedia.com",
+      "help@newprojectmedia.com",
+      "laurence.edwards@newprojectmedia.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "nextmotion.net",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "niftypm.com",
+    "email": "team@niftypm.com",
+    "email_type": "team",
+    "original_email_count": 1,
+    "all_emails": [
+      "team@niftypm.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "nilehq.com",
+    "email": "hello@nilehq.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@nilehq.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "nim.video",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "nobleblocks.com",
+    "email": "info@nobleblocks.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@nobleblocks.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "northbeam.io",
+    "email": "sales@northbeam.io",
+    "email_type": "sales",
+    "original_email_count": 5,
+    "all_emails": [
+      "partners@northbeam.io",
+      "people@northbeam.io",
+      "privacy@northbeam.io",
+      "sales@northbeam.io",
+      "success@northbeam.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "northwestregisteredagent.com",
+    "email": "support@northwestregisteredagent.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@northwestregisteredagent.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ocoya.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "octus.com",
+    "email": "marketing@octus.com",
+    "email_type": "marketing",
+    "original_email_count": 1,
+    "all_emails": [
+      "marketing@octus.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ohiolegalhelp.org",
+    "email": "info@ohiolegalhelp.org",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@ohiolegalhelp.org"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "omi.so",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "onabu.ai",
+    "email": "info@onabu.io",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@onabu.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "one.bio",
+    "email": "hello@one.bio",
+    "email_type": "hello",
+    "original_email_count": 2,
+    "all_emails": [
+      "hello@one.bio",
+      "hello@osmo.supply"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "oneclickads.com.br",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "onenewone.com",
+    "email": "info@onenewone.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@onenewone.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "open.money",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "openagenda.com",
+    "email": "contact@openagenda.com",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@openagenda.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "openart.ai",
+    "email": "support@openart.ai",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@openart.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "opengrants.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "openrouter.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "opensea.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "opinly.ai",
+    "email": "support@opinly.ai",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@opinly.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "opoint.com",
+    "email": "Toby.Cook@opoint.co",
+    "email_type": "toby.cook",
+    "original_email_count": 3,
+    "all_emails": [
+      "Toby.Cook@opoint.co",
+      "solutions@opoint.com",
+      "toby.cook@opoint.co"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "organizze.com.br",
+    "email": "oi@organizze.com.br",
+    "email_type": "oi",
+    "original_email_count": 1,
+    "all_emails": [
+      "oi@organizze.com.br"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "orionsleep.com",
+    "email": "support@orionsleep.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@orionsleep.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ottofrei.com",
+    "email": "info@ottofrei.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@ottofrei.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ourritual.com",
+    "email": "support@ourritual.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "privacy@ourritual.com",
+      "support@ourritual.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "outdoorsy.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "paapi.ai",
+    "email": "dpo@paapi.ai",
+    "email_type": "dpo",
+    "original_email_count": 2,
+    "all_emails": [
+      "dan@paapi.ai",
+      "dpo@paapi.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "panoramaed.com",
+    "email": "support@panoramaed.com",
+    "email_type": "support",
+    "original_email_count": 6,
+    "all_emails": [
+      "contact@panoramaed.com",
+      "peopleteam@panoramaed.com",
+      "pr@panoramaed.com",
+      "privacy@panoramaed.com",
+      "security@panoramaed.com",
+      "support@panoramaed.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "pargesoft.com",
+    "email": "info@pargesoft.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@pargesoft.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "partouche.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "paytmpayments.com",
+    "email": "pg.support@paytmpayments.com",
+    "email_type": "pg.support",
+    "original_email_count": 2,
+    "all_emails": [
+      "pg.support@paytmpayments.com",
+      "secretarial@paytmpayments.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "pex.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "phantombuster.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "phylo.bio",
+    "email": "contact@phylo.bio",
+    "email_type": "contact",
+    "original_email_count": 2,
+    "all_emails": [
+      "careers@phylo.bio",
+      "contact@phylo.bio"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "picadeli.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "pickndropnepal.com",
+    "email": "info@pickndropnepal.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@pickndropnepal.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "pics.io",
+    "email": "support@pics.io",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "support@pics.io",
+      "support@toptechphoto.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "pillar.security",
+    "email": "support@pillar.security",
+    "email_type": "support",
+    "original_email_count": 4,
+    "all_emails": [
+      "careers@pillar.security",
+      "info@pillar.security",
+      "sales@pillar.security",
+      "support@pillar.security"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "pinto.com.ec",
+    "email": "servicioalcliente@pinto.com.ec",
+    "email_type": "servicioalcliente",
+    "original_email_count": 1,
+    "all_emails": [
+      "servicioalcliente@pinto.com.ec"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "plansom.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "playsuper.ai",
+    "email": "business@playsuper.ai",
+    "email_type": "business",
+    "original_email_count": 1,
+    "all_emails": [
+      "business@playsuper.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "playyourbrand.com",
+    "email": "hola@playyourbrand.com",
+    "email_type": "hola",
+    "original_email_count": 1,
+    "all_emails": [
+      "hola@playyourbrand.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "plcs.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "poltio.com",
+    "email": "support@poltio.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@poltio.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "popety.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "portal26.ai",
+    "email": "info@portal26.ai",
+    "email_type": "info",
+    "original_email_count": 3,
+    "all_emails": [
+      "info@portal26.ai",
+      "info@titaniam.io",
+      "neil.cohen@portal26.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "premium-sa.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "premom.com",
+    "email": "support@premom.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "press@premom.com",
+      "support@premom.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "privco.com",
+    "email": "support@privco.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@privco.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "prodeal360.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "prodoscore.com",
+    "email": "support@prodoscore.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@prodoscore.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "proemion.com",
+    "email": "info-dayton@proemion.com",
+    "email_type": "info-dayton",
+    "original_email_count": 4,
+    "all_emails": [
+      "info-dayton@proemion.com",
+      "info-seoul@proemion.com",
+      "info-tokyo@proemion.com",
+      "info@proemion.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "prosal.com",
+    "email": "support@prosal.io",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@prosal.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "prospecta.digital",
+    "email": "contato@prospecta.digital",
+    "email_type": "contato",
+    "original_email_count": 1,
+    "all_emails": [
+      "contato@prospecta.digital"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "prosvita.net",
+    "email": "support@prosvita.net",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "client@prosvita.net",
+      "support@prosvita.net"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "psyke.co",
+    "email": "contact@psyke.co",
+    "email_type": "contact",
+    "original_email_count": 2,
+    "all_emails": [
+      "contact@psyke.co",
+      "hello@psyke.co"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "purplewave.com",
+    "email": "auction@purplewave.com",
+    "email_type": "auction",
+    "original_email_count": 1,
+    "all_emails": [
+      "auction@purplewave.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "pushnami.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "puter.com",
+    "email": "hi@puter.com",
+    "email_type": "hi",
+    "original_email_count": 1,
+    "all_emails": [
+      "hi@puter.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "puzzle.io",
+    "email": "support@puzzle.io",
+    "email_type": "support",
+    "original_email_count": 6,
+    "all_emails": [
+      "api@puzzle.io",
+      "careers@puzzle.io",
+      "feedback@puzzle.io",
+      "getstarted@puzzle.io",
+      "help@puzzle.io",
+      "support@puzzle.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "qapla.it",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "qencode.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "qobra.co",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "quantumheaps.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "quattr.com",
+    "email": "info@quattr.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@quattr.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "racap.com",
+    "email": "media@racap.com",
+    "email_type": "media",
+    "original_email_count": 6,
+    "all_emails": [
+      "general@racap.com",
+      "hiring@racap.com",
+      "internship@racap.com",
+      "ir@racap.com",
+      "media@racap.com",
+      "request@racap.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ranger.net",
+    "email": "howdy@ranger.net",
+    "email_type": "howdy",
+    "original_email_count": 1,
+    "all_emails": [
+      "howdy@ranger.net"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "rankscale.ai",
+    "email": "support@rankscale.ai",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@rankscale.ai",
+      "support@rankscale.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "rapidata.ai",
+    "email": "info@rapidata.ai",
+    "email_type": "info",
+    "original_email_count": 3,
+    "all_emails": [
+      "gregg@gthreemedia.com",
+      "info@rapidata.ai",
+      "join@rapidata.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "rayda.co",
+    "email": "hello@rayda.co",
+    "email_type": "hello",
+    "original_email_count": 3,
+    "all_emails": [
+      "hello@rayda.co",
+      "press@rayda.co",
+      "sales@rayda.co"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "rdash.ai",
+    "email": "hello@rdash.io",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@rdash.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "reactordata.com",
+    "email": "support@reactordata.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "amy@acme.io",
+      "support@reactordata.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "reallygoodemails.com",
+    "email": "support@reallygoodemails.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@reallygoodemails.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "realmhome.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "realytics.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "recruitwithatlas.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "redonlinemarketing.nl",
+    "email": "info@redonlinemarketing.nl",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@redonlinemarketing.nl"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "redsift.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "reelevant.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "replenysh.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "resend.com",
+    "email": "support@resend.com",
+    "email_type": "support",
+    "original_email_count": 9,
+    "all_emails": [
+      "bu@resend.com",
+      "careers@resend.com",
+      "delivered@resend.dev",
+      "jonni@resend.com",
+      "onboarding@resend.dev",
+      "security@resend.com",
+      "support@resend.com",
+      "zeh@resend.com",
+      "zeno@resend.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "responsive.dk",
+    "email": "info@responsive.dk",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@responsive.dk",
+      "lise@responsive.dk"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "retently.com",
+    "email": "sales@retently.com",
+    "email_type": "sales",
+    "original_email_count": 2,
+    "all_emails": [
+      "sales@retently.com",
+      "sc@retently.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "revalu.io",
+    "email": "hello@revalu.io",
+    "email_type": "hello",
+    "original_email_count": 9,
+    "all_emails": [
+      "beatriz.olano@revalu.io",
+      "bjoern.maack@revalu.io",
+      "hello@revalu.io",
+      "jacques@revalu.io",
+      "jan@revalu.io",
+      "jogesh@revalu.io",
+      "kika@revalu.io",
+      "tommaso@revalu.io",
+      "yasmin@revalu.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "revenium.ai",
+    "email": "support@revenium.io",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "info@revenium.ai",
+      "sales@revenium.io",
+      "support@revenium.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "revido.co",
+    "email": "sales@revido.io",
+    "email_type": "sales",
+    "original_email_count": 2,
+    "all_emails": [
+      "jane@company.com",
+      "sales@revido.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "revolutionre.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "rhombus.com",
+    "email": "info@rhombus.com",
+    "email_type": "info",
+    "original_email_count": 4,
+    "all_emails": [
+      "info@rhombus.com",
+      "jobs@rhombus.com",
+      "press@rhombus.com",
+      "sales@rhombus.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "rivelinrobotics.com",
+    "email": "info@rivelinrobotics.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@rivelinrobotics.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "rootline.com",
+    "email": "support@rootline.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "sales@rootline.com",
+      "support@rootline.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "runriviera.com",
+    "email": "hello@runriviera.com",
+    "email_type": "hello",
+    "original_email_count": 4,
+    "all_emails": [
+      "aisha.k@gmail.com",
+      "hello@runriviera.com",
+      "m.rivera@outlook.com",
+      "sarah.m@gmail.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "runware.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "saara.io",
+    "email": "business@saara.io",
+    "email_type": "business",
+    "original_email_count": 5,
+    "all_emails": [
+      "business@saara.io",
+      "care@saara.io",
+      "hr@saara.io",
+      "media@saara.io",
+      "partners@saara.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "saasify.ai",
+    "email": "support@saasify.ai",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "info@spektrasystems.com",
+      "sales@saasify.ai",
+      "support@saasify.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "safeguard.sh",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "sagareus.com",
+    "email": "careers@sagareus.com",
+    "email_type": "careers",
+    "original_email_count": 2,
+    "all_emails": [
+      "careers@sagareus.com",
+      "mgmt@sagareus.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "sailpoint.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "salesmessage.com",
+    "email": "support@salesmessage.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@salesmessage.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "scannable.io",
+    "email": "support@scannable.io",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@scannable.io",
+      "support@scannable.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "scribe-mail.com",
+    "email": "hello@scribe-mail.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@scribe-mail.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "scrive.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "scrollmark.com",
+    "email": "sales@scrollmark.com",
+    "email_type": "sales",
+    "original_email_count": 1,
+    "all_emails": [
+      "sales@scrollmark.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "sellfire.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "semji.com",
+    "email": "contact@semji.com",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@semji.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "semway.no",
+    "email": "brekke@semway.no",
+    "email_type": "brekke",
+    "original_email_count": 10,
+    "all_emails": [
+      "brekke@semway.no",
+      "hei@semway.no",
+      "ingrid@semway.no",
+      "kaja@semway.no",
+      "lindis@semway.no",
+      "magnus@semway.no",
+      "regine@semway.no",
+      "sofie@semway.no",
+      "terje@semway.no",
+      "therese@semway.no"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "senuto.com",
+    "email": "support@senuto.com",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "a.bereda@senuto.com",
+      "l.fedor@senuto.com",
+      "support@senuto.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "serpzilla.com",
+    "email": "contacts@serpzilla.com",
+    "email_type": "contacts",
+    "original_email_count": 1,
+    "all_emails": [
+      "contacts@serpzilla.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "serro.ai",
+    "email": "jake@serro.ai",
+    "email_type": "jake",
+    "original_email_count": 1,
+    "all_emails": [
+      "jake@serro.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "sibermate.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "sidekick.cool",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "signit.sa",
+    "email": "partners@signit.sa",
+    "email_type": "partners",
+    "original_email_count": 2,
+    "all_emails": [
+      "hala@signit.sa",
+      "partners@signit.sa"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "siteimprove.com",
+    "email": "press@siteimprove.com",
+    "email_type": "press",
+    "original_email_count": 1,
+    "all_emails": [
+      "press@siteimprove.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "skyfi.com",
+    "email": "Kammy@SkyFi.com",
+    "email_type": "kammy",
+    "original_email_count": 2,
+    "all_emails": [
+      "Kammy@SkyFi.com",
+      "Tom@SkyFi.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "smallstep.com",
+    "email": "alan@smallstep.com",
+    "email_type": "alan",
+    "original_email_count": 11,
+    "all_emails": [
+      "alan@smallstep.com",
+      "carl@smallstep.com",
+      "cass@smallstep.com",
+      "geoff@smallstep.com",
+      "herman@smallstep.com",
+      "hunter@smallstep.com",
+      "josh@smallstep.com",
+      "max@smallstep.com",
+      "mike@smallstep.com",
+      "ted@smallstep.com",
+      "tyler@smallstep.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "smartbreeder.com.br",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "smartsupp.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "sofiapulse.com",
+    "email": "agent@sofiapulse.com",
+    "email_type": "agent",
+    "original_email_count": 1,
+    "all_emails": [
+      "agent@sofiapulse.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "solarfame.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "solidlabs.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "soon.works",
+    "email": "hello@soon.works",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@soon.works"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "sorellalabs.xyz",
+    "email": "contact@sorellalabs.xyz",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@sorellalabs.xyz"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "sowork.com",
+    "email": "aloha@sowork.com",
+    "email_type": "aloha",
+    "original_email_count": 1,
+    "all_emails": [
+      "aloha@sowork.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "spaceship.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "spaitial.ai",
+    "email": "info@spaitial.ai",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@spaitial.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "sparkel.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "spotai.co",
+    "email": "sales@spotai.co",
+    "email_type": "sales",
+    "original_email_count": 1,
+    "all_emails": [
+      "sales@spotai.co"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "squaredup.com",
+    "email": "recruitment@squaredup.com",
+    "email_type": "recruitment",
+    "original_email_count": 1,
+    "all_emails": [
+      "recruitment@squaredup.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "stickybeak.co",
+    "email": "support@stickybeak.co",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "anna@stickybeak.co",
+      "support@stickybeak.co"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "stilta.com",
+    "email": "founders@stilta.com",
+    "email_type": "founders",
+    "original_email_count": 2,
+    "all_emails": [
+      "founders@stilta.com",
+      "oskar@stilta.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "stockpilereports.com",
+    "email": "support@stockpilereports.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@stockpilereports.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "storeconnect.com",
+    "email": "info@storeconnect.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@storeconnect.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "strappmobile.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "subway.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "sumary.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "superscale.ai",
+    "email": "support@superscale.ai",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@superscale.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "superside.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "svgator.com",
+    "email": "contact@svgator.com",
+    "email_type": "contact",
+    "original_email_count": 3,
+    "all_emails": [
+      "community@svgator.com",
+      "contact@svgator.com",
+      "info@update.es"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "svi.edu.au",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "switch-soft.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "swrecovery.com",
+    "email": "info@swrecovery.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@swrecovery.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "syatt.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "sycamore.so",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "synatic.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "syncwith.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "syspos.ae",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "tableau.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "talenesia.com",
+    "email": "konsultankerja@talenesia.com",
+    "email_type": "konsultankerja",
+    "original_email_count": 1,
+    "all_emails": [
+      "konsultankerja@talenesia.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "talentsprout.ai",
+    "email": "support@talentsprout.ai",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "careers@talentsprout.ai",
+      "matthew@talentsprout.ai",
+      "support@talentsprout.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "talkspirit.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "taskray.com",
+    "email": "support@taskray.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@taskray.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "tbobank.com",
+    "email": "supportteam@tbobank.com",
+    "email_type": "supportteam",
+    "original_email_count": 3,
+    "all_emails": [
+      "branchinfo@tbo.bank",
+      "info@tbobank.com",
+      "supportteam@tbobank.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "terranova.inc",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "testnovalabs.com",
+    "email": "innovation@testnovalabs.com",
+    "email_type": "innovation",
+    "original_email_count": 1,
+    "all_emails": [
+      "innovation@testnovalabs.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "textmine.com",
+    "email": "sales@textmine.com",
+    "email_type": "sales",
+    "original_email_count": 1,
+    "all_emails": [
+      "sales@textmine.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "theanna.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "theboavidagroup.com",
+    "email": "Alan@theBoaVidaGroup.com",
+    "email_type": "alan",
+    "original_email_count": 10,
+    "all_emails": [
+      "Alan@theBoaVidaGroup.com",
+      "Aric@theBoaVidaGroup.com",
+      "Brian@theBoaVidaGroup.com",
+      "Danny@theBoaVidaGroup.com",
+      "Eli@theBoaVidaGroup.com",
+      "Kimberly@BoaVidaMHP.com",
+      "Mark@theBoaVidaGroup.com",
+      "Noah@theBoaVidaGroup.com",
+      "Rachel@theBoaVidaGroup.com",
+      "Zach@BoaVidaRV.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "thecoraledge.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "thefly.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "thehog.ai",
+    "email": "support@thehog.ai",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@thehog.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "thelocopolo.com",
+    "email": "comercial@locopolo.com",
+    "email_type": "comercial",
+    "original_email_count": 2,
+    "all_emails": [
+      "comercial@locopolo.com",
+      "hola@locopolo.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "thenightsky.com",
+    "email": "help@thenightsky.com",
+    "email_type": "help",
+    "original_email_count": 1,
+    "all_emails": [
+      "help@thenightsky.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "thepilot.in",
+    "email": "info@thepilot.in",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@thepilot.in"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "threadedmfg.com",
+    "email": "support@threadedmfg.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@threadedmfg.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "thruline.co",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ticketbox.vn",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "tidewatercap.com",
+    "email": "info@tidewatercap.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@tidewatercap.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "timelyschools.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "titles.xyz",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "tokenoftrust.com",
+    "email": "support@tokenoftrust.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@tokenoftrust.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "tokonoma.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "toss.im",
+    "email": "support@toss.im",
+    "email_type": "support",
+    "original_email_count": 4,
+    "all_emails": [
+      "ir@toss.im",
+      "partnership@toss.im",
+      "safe@toss.im",
+      "support@toss.im"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "tramasmas.com",
+    "email": "posventa@tramasmas.com",
+    "email_type": "posventa",
+    "original_email_count": 1,
+    "all_emails": [
+      "posventa@tramasmas.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "transatel.com",
+    "email": "dpo@transatel.com",
+    "email_type": "dpo",
+    "original_email_count": 1,
+    "all_emails": [
+      "dpo@transatel.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "tripclap.com",
+    "email": "help@tripclap.com",
+    "email_type": "help",
+    "original_email_count": 1,
+    "all_emails": [
+      "help@tripclap.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "trmlabs.com",
+    "email": "contact@trmlabs.com",
+    "email_type": "contact",
+    "original_email_count": 3,
+    "all_emails": [
+      "contact@trmlabs.com",
+      "press@trmlabs.com",
+      "privacy@trmlabs.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "tromml.com",
+    "email": "lauren@tromml.com",
+    "email_type": "lauren",
+    "original_email_count": 1,
+    "all_emails": [
+      "lauren@tromml.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "trustworks.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "trysmartbite.com",
+    "email": "info@trysmartbite.com",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@trysmartbite.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "trytemelio.com",
+    "email": "support@trytemelio.com",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "contact@trytemelio.com",
+      "support@trytemelio.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "tubularlabs.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "typedesk.com",
+    "email": "support@typedesk.com",
+    "email_type": "support",
+    "original_email_count": 5,
+    "all_emails": [
+      "bob@typedesk.com",
+      "dana.wish@gmail.com",
+      "diana@typedesk.com",
+      "elon@spacex.com",
+      "support@typedesk.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ubi-global.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "udacity.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ukpropertyaccountants.co.uk",
+    "email": "contact@ukpa.co.uk",
+    "email_type": "contact",
+    "original_email_count": 2,
+    "all_emails": [
+      "contact@ukpa.co.uk",
+      "uae@ukpa.co.uk"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "ultipa.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "unbounce.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "unduit.com",
+    "email": "help@unduit.com",
+    "email_type": "help",
+    "original_email_count": 2,
+    "all_emails": [
+      "help@unduit.com",
+      "sales@unduit.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "unidoors.eu",
+    "email": "info@unidoors.eu",
+    "email_type": "info",
+    "original_email_count": 1,
+    "all_emails": [
+      "info@unidoors.eu"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "unsiloed.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "upnova.io",
+    "email": "support@upnova.io",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "hello@upnova.io",
+      "support@upnova.io"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "urumi.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "usesendcore.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "usewheelhouse.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "vaibstudio.com",
+    "email": "hello@vaibstudio.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@vaibstudio.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "valenceintel.com",
+    "email": "careers@valenceintel.com",
+    "email_type": "careers",
+    "original_email_count": 1,
+    "all_emails": [
+      "careers@valenceintel.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "validis.com",
+    "email": "info@validis.com",
+    "email_type": "info",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@validis.com",
+      "people@validis.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "vammo.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "vanaways.co.uk",
+    "email": "careers@vanaways.co.uk",
+    "email_type": "careers",
+    "original_email_count": 50,
+    "all_emails": [
+      "alastair.harris@vanaways.co.uk",
+      "alfie.gormley@vanaways.co.uk",
+      "alharit.attaguri@vanaways.co.uk",
+      "amy.hembrough@vanaways.co.uk",
+      "ashraful.haque@vanaways.co.uk",
+      "beth.jenkins@vanaways.co.uk",
+      "careers@vanaways.co.uk",
+      "careers@vansalesuk.co.uk",
+      "cedric.ratnasingham@vanaways.co.uk",
+      "corey.johnson@vanaways.co.uk",
+      "david.burrell@vanaways.co.uk",
+      "denitsa.simova@vanaways.co.uk",
+      "dorian.domeradzki@vanaways.co.uk",
+      "edward.farrow@vanaways.co.uk",
+      "ellie.smith@vanaways.co.uk",
+      "gabby.bath@vanaways.co.uk",
+      "gemma.knowles-myhill@vanaways.co.uk",
+      "gio.posa@vanaways.co.uk",
+      "hannah.hill@vanaways.co.uk",
+      "hannah.pearson@vanaways.co.uk",
+      "holly.toop@vanaways.co.uk",
+      "ilze.kyriacou@vanaways.co.uk",
+      "jack.doney@vanaways.co.uk",
+      "jacob.dixon@vanaways.co.uk",
+      "james.havill@vanaways.co.uk",
+      "jed.williams@vanaways.co.uk",
+      "jihad.khan@vanaways.co.uk",
+      "josh.brimble@vanaways.co.uk",
+      "kelly.read@vanaways.co.uk",
+      "kevin.baber@vanaways.co.uk",
+      "leads@vanaways.co.uk",
+      "lewis.boreham@vanaways.co.uk",
+      "lewis.wheatcroft@vanaways.co.uk",
+      "liam.nicholas@vanaways.co.uk",
+      "mark.taylor@vanaways.co.uk",
+      "matt.wood@vanaways.co.uk",
+      "millie.lewis@vanaways.co.uk",
+      "mollie.potter@vanaways.co.uk",
+      "nick.alexander@vanaways.co.uk",
+      "rob.upjohn@vanaways.co.uk",
+      "robert.prideaux@vanaways.co.uk",
+      "ross.wild@vanaways.co.uk",
+      "sam.lewis@vanaways.co.uk",
+      "shina.teniola@vanaways.co.uk",
+      "simon.lewis@vanaways.co.uk",
+      "sophie.caswell@vanaways.co.uk",
+      "stacey.weston@vanaways.co.uk",
+      "tomas.meneses@vanaways.co.uk",
+      "tyler.flage@vanaways.co.uk",
+      "yasmin.sandy@vanaways.co.uk"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "vasa.works",
+    "email": "hi@vasa.works",
+    "email_type": "hi",
+    "original_email_count": 1,
+    "all_emails": [
+      "hi@vasa.works"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "verticalresponse.com",
+    "email": "askus@verticalresponse.com",
+    "email_type": "askus",
+    "original_email_count": 2,
+    "all_emails": [
+      "askus@verticalresponse.com",
+      "laoshe_lao73@gmail.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "vfp-consulting.com",
+    "email": "info@vfp-consulting.com",
+    "email_type": "info",
+    "original_email_count": 9,
+    "all_emails": [
+      "djohnston@vfp-consulting.com",
+      "gplaisance@vfp-consulting.com",
+      "info@vfp-consulting.com",
+      "khubbard@vfp-consulting.com",
+      "mkelly@vfp-consulting.com",
+      "nanderson@vfp-consulting.com",
+      "racosta@vfp-consulting.com",
+      "spicardi@vfp-consulting.com",
+      "talibhai@vfp-consulting.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "visalaw.ai",
+    "email": "support@vislaw.ai",
+    "email_type": "support",
+    "original_email_count": 2,
+    "all_emails": [
+      "info@visalaw.ai",
+      "support@vislaw.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "vishwa.ai",
+    "email": "support@vishwa.ai",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@vishwa.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "vistasocial.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "vmv.group",
+    "email": "contato@vmv.group",
+    "email_type": "contato",
+    "original_email_count": 1,
+    "all_emails": [
+      "contato@vmv.group"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "vocci.ai",
+    "email": "support@vocci.ai",
+    "email_type": "support",
+    "original_email_count": 3,
+    "all_emails": [
+      "business@vocci.ai",
+      "pr@vocci.ai",
+      "support@vocci.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "volonte.co",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "voluum.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "voromotors.com",
+    "email": "support@voromotors.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@voromotors.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "vsslagency.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "vyrian.com",
+    "email": "sales@vyrian.com",
+    "email_type": "sales",
+    "original_email_count": 1,
+    "all_emails": [
+      "sales@vyrian.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "waitry.net",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "wandify.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "wearegenial.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "wecapital.com.br",
+    "email": "contato@wecapital.com.br",
+    "email_type": "contato",
+    "original_email_count": 1,
+    "all_emails": [
+      "contato@wecapital.com.br"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "weglot.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "wellsite.com",
+    "email": "support@wellsite.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@wellsite.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "wicom.asia",
+    "email": "hr@wicom.asia",
+    "email_type": "hr",
+    "original_email_count": 1,
+    "all_emails": [
+      "hr@wicom.asia"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "withforerunner.com",
+    "email": "hello@withforerunner.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@withforerunner.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "withjuly.com",
+    "email": "build@withjuly.com",
+    "email_type": "build",
+    "original_email_count": 1,
+    "all_emails": [
+      "build@withjuly.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "withvayu.com",
+    "email": "contact@withvayu.com",
+    "email_type": "contact",
+    "original_email_count": 1,
+    "all_emails": [
+      "contact@withvayu.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "wope.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "workerbee.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "workos.com",
+    "email": "hello@workos.com",
+    "email_type": "hello",
+    "original_email_count": 1,
+    "all_emails": [
+      "hello@workos.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "worksmobile.com",
+    "email": "naverworks_marketing@navercorp.com",
+    "email_type": "naverworks_marketing",
+    "original_email_count": 1,
+    "all_emails": [
+      "naverworks_marketing@navercorp.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "worldsys.io",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "wovenmedia.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "wtax.co",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "wubble.ai",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "xano.com",
+    "email": "support@xano.com",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@xano.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "yocabe.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "yoco.com",
+    "email": "sales@yoco.com",
+    "email_type": "sales",
+    "original_email_count": 5,
+    "all_emails": [
+      "chargebacks@yoco.com",
+      "complaint@yoco.com",
+      "legal@yoco.com",
+      "press@yoco.com",
+      "sales@yoco.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "yummysuperapp.com",
+    "email": null,
+    "email_type": "none",
+    "original_email_count": 0,
+    "all_emails": [],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "zamilac.com",
+    "email": "halawallah@zamilac.com",
+    "email_type": "halawallah",
+    "original_email_count": 1,
+    "all_emails": [
+      "halawallah@zamilac.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "zime.ai",
+    "email": "support@zime.ai",
+    "email_type": "support",
+    "original_email_count": 1,
+    "all_emails": [
+      "support@zime.ai"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  },
+  {
+    "domain": "zyft.com",
+    "email": "info@zyft.com",
+    "email_type": "info",
+    "original_email_count": 4,
+    "all_emails": [
+      "affiliates@zyft.com",
+      "info@zyft.com",
+      "marketing@zyft.com",
+      "partnerships@zyft.com"
+    ],
+    "security_program": "none",
+    "security_rewards": "NOT STATED"
+  }
+]

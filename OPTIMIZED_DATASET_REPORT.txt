@@ -1,0 +1,123 @@
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║                    📧 OPTIMIZED EMAIL DATASET REPORT 📧                   ║
+║                                                                            ║
+║              One Email Per Domain - Support Priority System                ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+OPTIMIZATION STRATEGY:
+✅ One email per domain (best match selected)
+✅ Support emails prioritized over sales/other
+✅ Priority ranking: support@ > help@ > contact@ > info@ > ... > sales@
+✅ Every domain included (with or without email)
+
+════════════════════════════════════════════════════════════════════════════
+📊 DATASET STATISTICS
+════════════════════════════════════════════════════════════════════════════
+
+Total Domains: 608
+Domains with Email: 386 (63.5%)
+Domains without Email: 222 (36.5%)
+
+════════════════════════════════════════════════════════════════════════════
+📈 EMAIL TYPE DISTRIBUTION (Top 15)
+════════════════════════════════════════════════════════════════════════════
+
+ 1. support              :  104 ( 26.9%) █████████████
+ 2. info                 :   84 ( 21.8%) ██████████
+ 3. hello                :   31 (  8.0%) ████
+ 4. contact              :   26 (  6.7%) ███
+ 5. sales                :   22 (  5.7%) ██
+ 6. help                 :    8 (  2.1%) █
+ 7. careers              :    6 (  1.6%) 
+ 8. press                :    5 (  1.3%) 
+ 9. contato              :    5 (  1.3%) 
+10. hi                   :    5 (  1.3%) 
+11. connect              :    3 (  0.8%) 
+12. marketing            :    3 (  0.8%) 
+13. comercial            :    3 (  0.8%) 
+14. contactus            :    3 (  0.8%) 
+15. team                 :    3 (  0.8%) 
+
+════════════════════════════════════════════════════════════════════════════
+📁 OUTPUT FILES GENERATED
+════════════════════════════════════════════════════════════════════════════
+
+✅ optimized_email_list.json
+   • Complete dataset with all metadata
+   • One email per domain (best match)
+   • Includes all original emails for reference
+   • Format: JSON
+
+✅ optimized_email_list.csv
+   • Spreadsheet-compatible format
+   • Pipe-delimited columns
+   • Ready for Excel/Google Sheets
+   • Format: CSV
+
+✅ optimized_emails_flat.txt
+   • 386 email addresses (one per line)
+   • Only domains with emails
+   • Sorted alphabetically
+   • Ready for bulk operations
+
+════════════════════════════════════════════════════════════════════════════
+🎯 PRIORITY RANKING SYSTEM
+════════════════════════════════════════════════════════════════════════════
+
+Tier 1 (Highest Priority - Support/Help):
+  1. support@     - Direct support contact
+  2. help@        - Help/support contact
+  3. contact@     - General contact
+  4. info@        - Information contact
+
+Tier 2 (Business Contact):
+  5. hello@       - Friendly business contact
+  6. business@    - Business inquiries
+  7. inquiry@     - General inquiries
+  8. sales@       - Sales contact (LOWEST PRIORITY)
+
+════════════════════════════════════════════════════════════════════════════
+✨ KEY BENEFITS
+════════════════════════════════════════════════════════════════════════════
+
+✅ Simplified Dataset
+   • One email per domain (no confusion)
+   • Easier to manage and use
+   • Reduced data redundancy
+
+✅ Smart Prioritization
+   • Support emails prioritized
+   • Business-focused selection
+   • Optimal for outreach campaigns
+
+✅ Complete Coverage
+   • Every domain included
+   • Domains without emails documented
+   • 100% dataset coverage
+
+✅ Multiple Formats
+   • JSON for programmatic access
+   • CSV for spreadsheet analysis
+   • TXT for bulk operations
+
+════════════════════════════════════════════════════════════════════════════
+🚀 READY FOR USE
+════════════════════════════════════════════════════════════════════════════
+
+The optimized dataset is ready for:
+✓ Email marketing campaigns
+✓ CRM integration
+✓ Business development outreach
+✓ Contact database management
+✓ Sales prospecting
+
+════════════════════════════════════════════════════════════════════════════
+
+Generated: July 8, 2026
+Total Processing Time: ~2 seconds
+Status: ✅ COMPLETE
+
+════════════════════════════════════════════════════════════════════════════
